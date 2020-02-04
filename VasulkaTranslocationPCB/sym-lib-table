@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name New_Library)(type Legacy)(uri /Users/kristenkeilman/Documents/GitHub/Vasulka_Brotherhood/VasulkaTranslocationPCB/New_Library.lib)(options "")(descr ""))
+  (lib (name CONN02x12)(type Legacy)(uri /Users/kristenkeilman/Documents/GitHub/Vasulka_Brotherhood/VasulkaTranslocationPCB/CONN02x12.lib)(options "")(descr ""))
+  (lib (name VasulkaTranslocationPCB-rescue)(type Legacy)(uri ${KIPRJMOD}/VasulkaTranslocationPCB-rescue.lib)(options "")(descr ""))
+)
