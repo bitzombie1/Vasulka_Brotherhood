@@ -1,5 +1,6 @@
 EESchema Schematic File Version 4
-EELAYER 30 0
+LIBS:VasulkaTranslocationPCB-cache
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -89,7 +90,7 @@ F 3 "" H 2500 2050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VasulkaTranslocationPCB-rescue:Q_PMOS_GSD-Device Q?
+L Device:Q_PMOS_GSD Q?
 U 1 1 5D93B4AD
 P 3100 1450
 AR Path="/5D93B4AD" Ref="Q?"  Part="1" 
@@ -366,7 +367,7 @@ F 3 "" H 5850 2000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VasulkaTranslocationPCB-rescue:Q_PMOS_GSD-Device Q?
+L Device:Q_PMOS_GSD Q?
 U 1 1 5D93B9A0
 P 6450 1400
 AR Path="/5D93B9A0" Ref="Q?"  Part="1" 
@@ -643,7 +644,7 @@ F 3 "" H 9500 2050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VasulkaTranslocationPCB-rescue:Q_PMOS_GSD-Device Q?
+L Device:Q_PMOS_GSD Q?
 U 1 1 5D93C497
 P 10100 1450
 AR Path="/5D93C497" Ref="Q?"  Part="1" 
@@ -920,7 +921,7 @@ F 3 "" H 2500 4250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VasulkaTranslocationPCB-rescue:Q_PMOS_GSD-Device Q?
+L Device:Q_PMOS_GSD Q?
 U 1 1 5D93DAB1
 P 3100 3650
 AR Path="/5D93DAB1" Ref="Q?"  Part="1" 
@@ -1197,7 +1198,7 @@ F 3 "" H 6050 4200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VasulkaTranslocationPCB-rescue:Q_PMOS_GSD-Device Q?
+L Device:Q_PMOS_GSD Q?
 U 1 1 5D94097B
 P 6650 3600
 AR Path="/5D94097B" Ref="Q?"  Part="1" 
@@ -1474,7 +1475,7 @@ F 3 "" H 9550 4250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VasulkaTranslocationPCB-rescue:Q_PMOS_GSD-Device Q?
+L Device:Q_PMOS_GSD Q?
 U 1 1 5D94504B
 P 10150 3650
 AR Path="/5D94504B" Ref="Q?"  Part="1" 
@@ -1751,7 +1752,7 @@ F 3 "" H 2400 6250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VasulkaTranslocationPCB-rescue:Q_PMOS_GSD-Device Q?
+L Device:Q_PMOS_GSD Q?
 U 1 1 5D94AF40
 P 3000 5650
 AR Path="/5D94AF40" Ref="Q?"  Part="1" 
@@ -2028,7 +2029,7 @@ F 3 "" H 6000 6300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VasulkaTranslocationPCB-rescue:Q_PMOS_GSD-Device Q?
+L Device:Q_PMOS_GSD Q?
 U 1 1 5D953CF8
 P 6600 5700
 AR Path="/5D953CF8" Ref="Q?"  Part="1" 
