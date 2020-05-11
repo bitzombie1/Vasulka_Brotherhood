@@ -1,0 +1,3974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/kristenkeilman/Documents/GitHub/Vasulka_Brotherhood/VasulkaTranslocationPCB/VasulkaTranslocationPCB.sch</source>
+    <date>Thursday, July 04, 2019 at 07:57:51 AM</date>
+    <tool>Eeschema (5.1.2-1)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Translocation</title>
+        <company>Vasulka Inc</company>
+        <rev>v.1</rev>
+        <date>2019-03-17</date>
+        <source>VasulkaTranslocationPCB.sch</source>
+        <comment number="1" value="K. Danae Keilman"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Sheet5C8F1E11/" tstamps="/5C8F1E12/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB1+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Sheet5C8F33D0/" tstamps="/5C8F33D1/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Sheet5C8F9FCF/" tstamps="/5C8F9FD0/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB2+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Sheet5C8FAB5D/" tstamps="/5C8FAB5E/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB3+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Sheet5C8FB470/" tstamps="/5C8FB471/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB4+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Sheet5C8FB769/" tstamps="/5C8FB76A/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB5+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Sheet5C8FB76C/" tstamps="/5C8FB76D/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB6+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Sheet5C8FB76F/" tstamps="/5C8FB770/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB7+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/Sheet5C8FB772/" tstamps="/5C8FB773/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB8+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/Sheet5C8FB775/" tstamps="/5C8FB776/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB9+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/Sheet5C8FB778/" tstamps="/5C8FB779/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB10+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/Sheet5C8FB77B/" tstamps="/5C8FB77C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB11+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/Sheet5C8FB77E/" tstamps="/5C8FB77F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB12+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/Sheet5C8FB781/" tstamps="/5C8FB782/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB13+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/Sheet5C8FB784/" tstamps="/5C8FB785/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB14+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/Sheet5C8FB787/" tstamps="/5C8FB788/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB15+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="18" name="/Sheet5C8FB78A/" tstamps="/5C8FB78B/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB16+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="19" name="/Sheet5C8FB78D/" tstamps="/5C8FB78E/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB17+.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="20" name="/Sheet5C8FDCB8/" tstamps="/5C8FDCB9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB2-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="21" name="/Sheet5C8FDCBB/" tstamps="/5C8FDCBC/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB3-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="22" name="/Sheet5C8FDCBE/" tstamps="/5C8FDCBF/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB4-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="23" name="/Sheet5C8FDCC1/" tstamps="/5C8FDCC2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB5-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="24" name="/Sheet5C8FDCC4/" tstamps="/5C8FDCC5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB6-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="25" name="/Sheet5C8FDCC7/" tstamps="/5C8FDCC8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB7-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="26" name="/Sheet5C8FDCCA/" tstamps="/5C8FDCCB/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB8-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="27" name="/Sheet5C8FDCCF/" tstamps="/5C8FDCD0/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB9-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="28" name="/Sheet5C8FDCD2/" tstamps="/5C8FDCD3/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB10-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="29" name="/Sheet5C8FDCD5/" tstamps="/5C8FDCD6/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB11-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="30" name="/Sheet5C8FDCD8/" tstamps="/5C8FDCD9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB12-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="31" name="/Sheet5C8FDCDB/" tstamps="/5C8FDCDC/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB13-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="32" name="/Sheet5C8FDCDE/" tstamps="/5C8FDCDF/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB14-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="33" name="/Sheet5C8FDCE1/" tstamps="/5C8FDCE2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB15-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="34" name="/Sheet5C8FDCE4/" tstamps="/5C8FDCE5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB16-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="35" name="/Sheet5C8FDCE7/" tstamps="/5C8FDCE8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BULB17-.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>TEENSY_3.5</value>
+      <footprint>MeowWolf_Templates:TEENSY_3.5_3.6_NO_SILK</footprint>
+      <libsource lib="MeowWolf_Templates" part="TEENSY_3.5" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C900322</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>BULB-</value>
+      <footprint>MeowWolf_Connectors:CONN02x12</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x12_Counter_Clockwise" description="Generic connector, double row, 02x12, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CAF13D6</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>BULB+</value>
+      <footprint>MeowWolf_Connectors:CONN02x12</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x12_Counter_Clockwise" description="Generic connector, double row, 02x12, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CB6D195</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x02</value>
+      <footprint>Connectors:BARREL_JACK</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CCDD736</tstamp>
+    </comp>
+    <comp ref="MH4">
+      <value>MountingHole</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CAB510E</tstamp>
+    </comp>
+    <comp ref="MH1">
+      <value>MountingHole</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CAB5142</tstamp>
+    </comp>
+    <comp ref="MH2">
+      <value>MountingHole</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CAB5165</tstamp>
+    </comp>
+    <comp ref="MH3">
+      <value>MountingHole</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CAB518B</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8F1E11/" tstamps="/5C8F1E12/"/>
+      <tstamp>5C8F2357</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F1E11/" tstamps="/5C8F1E12/"/>
+      <tstamp>5C8F2365</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F1E11/" tstamps="/5C8F1E12/"/>
+      <tstamp>5C8F236C</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8F1E11/" tstamps="/5C8F1E12/"/>
+      <tstamp>5C8F237F</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F1E11/" tstamps="/5C8F1E12/"/>
+      <tstamp>5C8F2386</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F1E11/" tstamps="/5C8F1E12/"/>
+      <tstamp>5C8F2393</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8F1E11/" tstamps="/5C8F1E12/"/>
+      <tstamp>5CE7CBFF</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8F33D0/" tstamps="/5C8F33D1/"/>
+      <tstamp>5C8F3804</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F33D0/" tstamps="/5C8F33D1/"/>
+      <tstamp>5C8F380B</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F33D0/" tstamps="/5C8F33D1/"/>
+      <tstamp>5C8F3812</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F33D0/" tstamps="/5C8F33D1/"/>
+      <tstamp>5C8F3820</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8F33D0/" tstamps="/5C8F33D1/"/>
+      <tstamp>5C8F3827</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F33D0/" tstamps="/5C8F33D1/"/>
+      <tstamp>5C8F382E</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>IRF510</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8F33D0/" tstamps="/5C8F33D1/"/>
+      <tstamp>5CE8BD67</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8F9FCF/" tstamps="/5C8F9FD0/"/>
+      <tstamp>5C8FA8C1</tstamp>
+    </comp>
+    <comp ref="Q5">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8F9FCF/" tstamps="/5C8F9FD0/"/>
+      <tstamp>5C8FA8C8</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F9FCF/" tstamps="/5C8F9FD0/"/>
+      <tstamp>5C8FA8CF</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F9FCF/" tstamps="/5C8F9FD0/"/>
+      <tstamp>5C8FA8D6</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8F9FCF/" tstamps="/5C8F9FD0/"/>
+      <tstamp>5C8FA8E9</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F9FCF/" tstamps="/5C8F9FD0/"/>
+      <tstamp>5C8FA8F0</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8F9FCF/" tstamps="/5C8F9FD0/"/>
+      <tstamp>5C8FA8FD</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FAB5D/" tstamps="/5C8FAB5E/"/>
+      <tstamp>5C8FB226</tstamp>
+    </comp>
+    <comp ref="Q7">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FAB5D/" tstamps="/5C8FAB5E/"/>
+      <tstamp>5C8FB22D</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FAB5D/" tstamps="/5C8FAB5E/"/>
+      <tstamp>5C8FB234</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FAB5D/" tstamps="/5C8FAB5E/"/>
+      <tstamp>5C8FB23B</tstamp>
+    </comp>
+    <comp ref="Q6">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FAB5D/" tstamps="/5C8FAB5E/"/>
+      <tstamp>5C8FB24E</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FAB5D/" tstamps="/5C8FAB5E/"/>
+      <tstamp>5C8FB255</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FAB5D/" tstamps="/5C8FAB5E/"/>
+      <tstamp>5C8FB262</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB470/" tstamps="/5C8FB471/"/>
+      <tstamp>5C8FB52E</tstamp>
+    </comp>
+    <comp ref="Q9">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB470/" tstamps="/5C8FB471/"/>
+      <tstamp>5C8FB535</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB470/" tstamps="/5C8FB471/"/>
+      <tstamp>5C8FB53C</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB470/" tstamps="/5C8FB471/"/>
+      <tstamp>5C8FB543</tstamp>
+    </comp>
+    <comp ref="Q8">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB470/" tstamps="/5C8FB471/"/>
+      <tstamp>5C8FB556</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB470/" tstamps="/5C8FB471/"/>
+      <tstamp>5C8FB55D</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB470/" tstamps="/5C8FB471/"/>
+      <tstamp>5C8FB56A</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB769/" tstamps="/5C8FB76A/"/>
+      <tstamp>5C8FB8B8</tstamp>
+    </comp>
+    <comp ref="Q11">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB769/" tstamps="/5C8FB76A/"/>
+      <tstamp>5C8FB8BF</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB769/" tstamps="/5C8FB76A/"/>
+      <tstamp>5C8FB8C6</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB769/" tstamps="/5C8FB76A/"/>
+      <tstamp>5C8FB8CD</tstamp>
+    </comp>
+    <comp ref="Q10">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB769/" tstamps="/5C8FB76A/"/>
+      <tstamp>5C8FB8E0</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB769/" tstamps="/5C8FB76A/"/>
+      <tstamp>5C8FB8E7</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB769/" tstamps="/5C8FB76A/"/>
+      <tstamp>5C8FB8F4</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB76C/" tstamps="/5C8FB76D/"/>
+      <tstamp>5C8FBB73</tstamp>
+    </comp>
+    <comp ref="Q13">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB76C/" tstamps="/5C8FB76D/"/>
+      <tstamp>5C8FBB7A</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB76C/" tstamps="/5C8FB76D/"/>
+      <tstamp>5C8FBB81</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB76C/" tstamps="/5C8FB76D/"/>
+      <tstamp>5C8FBB88</tstamp>
+    </comp>
+    <comp ref="Q12">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB76C/" tstamps="/5C8FB76D/"/>
+      <tstamp>5C8FBB9B</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB76C/" tstamps="/5C8FB76D/"/>
+      <tstamp>5C8FBBA2</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB76C/" tstamps="/5C8FB76D/"/>
+      <tstamp>5C8FBBAF</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB76F/" tstamps="/5C8FB770/"/>
+      <tstamp>5C8FBE84</tstamp>
+    </comp>
+    <comp ref="Q15">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB76F/" tstamps="/5C8FB770/"/>
+      <tstamp>5C8FBE8B</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB76F/" tstamps="/5C8FB770/"/>
+      <tstamp>5C8FBE92</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB76F/" tstamps="/5C8FB770/"/>
+      <tstamp>5C8FBE99</tstamp>
+    </comp>
+    <comp ref="Q14">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB76F/" tstamps="/5C8FB770/"/>
+      <tstamp>5C8FBEAC</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB76F/" tstamps="/5C8FB770/"/>
+      <tstamp>5C8FBEB3</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB76F/" tstamps="/5C8FB770/"/>
+      <tstamp>5C8FBEC0</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB772/" tstamps="/5C8FB773/"/>
+      <tstamp>5C8FC196</tstamp>
+    </comp>
+    <comp ref="Q17">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB772/" tstamps="/5C8FB773/"/>
+      <tstamp>5C8FC19D</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB772/" tstamps="/5C8FB773/"/>
+      <tstamp>5C8FC1A4</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB772/" tstamps="/5C8FB773/"/>
+      <tstamp>5C8FC1AB</tstamp>
+    </comp>
+    <comp ref="Q16">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB772/" tstamps="/5C8FB773/"/>
+      <tstamp>5C8FC1BE</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB772/" tstamps="/5C8FB773/"/>
+      <tstamp>5C8FC1C5</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB772/" tstamps="/5C8FB773/"/>
+      <tstamp>5C8FC1D2</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB775/" tstamps="/5C8FB776/"/>
+      <tstamp>5C8FC3B3</tstamp>
+    </comp>
+    <comp ref="Q19">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB775/" tstamps="/5C8FB776/"/>
+      <tstamp>5C8FC3BA</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB775/" tstamps="/5C8FB776/"/>
+      <tstamp>5C8FC3C1</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB775/" tstamps="/5C8FB776/"/>
+      <tstamp>5C8FC3C8</tstamp>
+    </comp>
+    <comp ref="Q18">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB775/" tstamps="/5C8FB776/"/>
+      <tstamp>5C8FC3DB</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB775/" tstamps="/5C8FB776/"/>
+      <tstamp>5C8FC3E2</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB775/" tstamps="/5C8FB776/"/>
+      <tstamp>5C8FC3EF</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB778/" tstamps="/5C8FB779/"/>
+      <tstamp>5C8FC6B0</tstamp>
+    </comp>
+    <comp ref="Q21">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB778/" tstamps="/5C8FB779/"/>
+      <tstamp>5C8FC6B7</tstamp>
+    </comp>
+    <comp ref="R43">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB778/" tstamps="/5C8FB779/"/>
+      <tstamp>5C8FC6BE</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB778/" tstamps="/5C8FB779/"/>
+      <tstamp>5C8FC6C5</tstamp>
+    </comp>
+    <comp ref="Q20">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB778/" tstamps="/5C8FB779/"/>
+      <tstamp>5C8FC6D8</tstamp>
+    </comp>
+    <comp ref="R44">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB778/" tstamps="/5C8FB779/"/>
+      <tstamp>5C8FC6DF</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB778/" tstamps="/5C8FB779/"/>
+      <tstamp>5C8FC6EC</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB77B/" tstamps="/5C8FB77C/"/>
+      <tstamp>5C8FC944</tstamp>
+    </comp>
+    <comp ref="Q23">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB77B/" tstamps="/5C8FB77C/"/>
+      <tstamp>5C8FC94B</tstamp>
+    </comp>
+    <comp ref="R47">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB77B/" tstamps="/5C8FB77C/"/>
+      <tstamp>5C8FC952</tstamp>
+    </comp>
+    <comp ref="R46">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB77B/" tstamps="/5C8FB77C/"/>
+      <tstamp>5C8FC959</tstamp>
+    </comp>
+    <comp ref="Q22">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB77B/" tstamps="/5C8FB77C/"/>
+      <tstamp>5C8FC96C</tstamp>
+    </comp>
+    <comp ref="R48">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB77B/" tstamps="/5C8FB77C/"/>
+      <tstamp>5C8FC973</tstamp>
+    </comp>
+    <comp ref="R45">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB77B/" tstamps="/5C8FB77C/"/>
+      <tstamp>5C8FC980</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB77E/" tstamps="/5C8FB77F/"/>
+      <tstamp>5C8FCC9C</tstamp>
+    </comp>
+    <comp ref="Q25">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB77E/" tstamps="/5C8FB77F/"/>
+      <tstamp>5C8FCCA3</tstamp>
+    </comp>
+    <comp ref="R51">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB77E/" tstamps="/5C8FB77F/"/>
+      <tstamp>5C8FCCAA</tstamp>
+    </comp>
+    <comp ref="R50">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB77E/" tstamps="/5C8FB77F/"/>
+      <tstamp>5C8FCCB1</tstamp>
+    </comp>
+    <comp ref="Q24">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB77E/" tstamps="/5C8FB77F/"/>
+      <tstamp>5C8FCCC4</tstamp>
+    </comp>
+    <comp ref="R52">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB77E/" tstamps="/5C8FB77F/"/>
+      <tstamp>5C8FCCCB</tstamp>
+    </comp>
+    <comp ref="R49">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB77E/" tstamps="/5C8FB77F/"/>
+      <tstamp>5C8FCCD8</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB781/" tstamps="/5C8FB782/"/>
+      <tstamp>5C8FCF7F</tstamp>
+    </comp>
+    <comp ref="Q27">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB781/" tstamps="/5C8FB782/"/>
+      <tstamp>5C8FCF86</tstamp>
+    </comp>
+    <comp ref="R55">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB781/" tstamps="/5C8FB782/"/>
+      <tstamp>5C8FCF8D</tstamp>
+    </comp>
+    <comp ref="R54">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB781/" tstamps="/5C8FB782/"/>
+      <tstamp>5C8FCF94</tstamp>
+    </comp>
+    <comp ref="Q26">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB781/" tstamps="/5C8FB782/"/>
+      <tstamp>5C8FCFA7</tstamp>
+    </comp>
+    <comp ref="R56">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB781/" tstamps="/5C8FB782/"/>
+      <tstamp>5C8FCFAE</tstamp>
+    </comp>
+    <comp ref="R53">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB781/" tstamps="/5C8FB782/"/>
+      <tstamp>5C8FCFBB</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB784/" tstamps="/5C8FB785/"/>
+      <tstamp>5C8FD2BB</tstamp>
+    </comp>
+    <comp ref="Q29">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB784/" tstamps="/5C8FB785/"/>
+      <tstamp>5C8FD2C2</tstamp>
+    </comp>
+    <comp ref="R59">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB784/" tstamps="/5C8FB785/"/>
+      <tstamp>5C8FD2C9</tstamp>
+    </comp>
+    <comp ref="R58">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB784/" tstamps="/5C8FB785/"/>
+      <tstamp>5C8FD2D0</tstamp>
+    </comp>
+    <comp ref="Q28">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB784/" tstamps="/5C8FB785/"/>
+      <tstamp>5C8FD2E3</tstamp>
+    </comp>
+    <comp ref="R60">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB784/" tstamps="/5C8FB785/"/>
+      <tstamp>5C8FD2EA</tstamp>
+    </comp>
+    <comp ref="R57">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB784/" tstamps="/5C8FB785/"/>
+      <tstamp>5C8FD2F7</tstamp>
+    </comp>
+    <comp ref="U17">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB787/" tstamps="/5C8FB788/"/>
+      <tstamp>5C8FD55D</tstamp>
+    </comp>
+    <comp ref="Q31">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB787/" tstamps="/5C8FB788/"/>
+      <tstamp>5C8FD564</tstamp>
+    </comp>
+    <comp ref="R63">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB787/" tstamps="/5C8FB788/"/>
+      <tstamp>5C8FD56B</tstamp>
+    </comp>
+    <comp ref="R62">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB787/" tstamps="/5C8FB788/"/>
+      <tstamp>5C8FD572</tstamp>
+    </comp>
+    <comp ref="Q30">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB787/" tstamps="/5C8FB788/"/>
+      <tstamp>5C8FD585</tstamp>
+    </comp>
+    <comp ref="R64">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB787/" tstamps="/5C8FB788/"/>
+      <tstamp>5C8FD58C</tstamp>
+    </comp>
+    <comp ref="R61">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB787/" tstamps="/5C8FB788/"/>
+      <tstamp>5C8FD599</tstamp>
+    </comp>
+    <comp ref="U18">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB78A/" tstamps="/5C8FB78B/"/>
+      <tstamp>5C8FD7C0</tstamp>
+    </comp>
+    <comp ref="Q33">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB78A/" tstamps="/5C8FB78B/"/>
+      <tstamp>5C8FD7C7</tstamp>
+    </comp>
+    <comp ref="R67">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB78A/" tstamps="/5C8FB78B/"/>
+      <tstamp>5C8FD7CE</tstamp>
+    </comp>
+    <comp ref="R66">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB78A/" tstamps="/5C8FB78B/"/>
+      <tstamp>5C8FD7D5</tstamp>
+    </comp>
+    <comp ref="Q32">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB78A/" tstamps="/5C8FB78B/"/>
+      <tstamp>5C8FD7E8</tstamp>
+    </comp>
+    <comp ref="R68">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB78A/" tstamps="/5C8FB78B/"/>
+      <tstamp>5C8FD7EF</tstamp>
+    </comp>
+    <comp ref="R65">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB78A/" tstamps="/5C8FB78B/"/>
+      <tstamp>5C8FD7FC</tstamp>
+    </comp>
+    <comp ref="U19">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FB78D/" tstamps="/5C8FB78E/"/>
+      <tstamp>5C8FDA69</tstamp>
+    </comp>
+    <comp ref="Q35">
+      <value>2N3904</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/Sheet5C8FB78D/" tstamps="/5C8FB78E/"/>
+      <tstamp>5C8FDA70</tstamp>
+    </comp>
+    <comp ref="R71">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB78D/" tstamps="/5C8FB78E/"/>
+      <tstamp>5C8FDA77</tstamp>
+    </comp>
+    <comp ref="R70">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB78D/" tstamps="/5C8FB78E/"/>
+      <tstamp>5C8FDA7E</tstamp>
+    </comp>
+    <comp ref="Q34">
+      <value>IRF9520</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/Sheet5C8FB78D/" tstamps="/5C8FB78E/"/>
+      <tstamp>5C8FDA91</tstamp>
+    </comp>
+    <comp ref="R72">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB78D/" tstamps="/5C8FB78E/"/>
+      <tstamp>5C8FDA98</tstamp>
+    </comp>
+    <comp ref="R69">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FB78D/" tstamps="/5C8FB78E/"/>
+      <tstamp>5C8FDAA5</tstamp>
+    </comp>
+    <comp ref="U20">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCB8/" tstamps="/5C8FDCB9/"/>
+      <tstamp>5C8FDD82</tstamp>
+    </comp>
+    <comp ref="R76">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCB8/" tstamps="/5C8FDCB9/"/>
+      <tstamp>5C8FDD89</tstamp>
+    </comp>
+    <comp ref="R75">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCB8/" tstamps="/5C8FDCB9/"/>
+      <tstamp>5C8FDD90</tstamp>
+    </comp>
+    <comp ref="Q36">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCB8/" tstamps="/5C8FDCB9/"/>
+      <tstamp>5C8FDD97</tstamp>
+    </comp>
+    <comp ref="R74">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCB8/" tstamps="/5C8FDCB9/"/>
+      <tstamp>5C8FDD9E</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCB8/" tstamps="/5C8FDCB9/"/>
+      <tstamp>5C8FDDA5</tstamp>
+    </comp>
+    <comp ref="R73">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCB8/" tstamps="/5C8FDCB9/"/>
+      <tstamp>5C8FDDAC</tstamp>
+    </comp>
+    <comp ref="U21">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCBB/" tstamps="/5C8FDCBC/"/>
+      <tstamp>5C8FE031</tstamp>
+    </comp>
+    <comp ref="R80">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCBB/" tstamps="/5C8FDCBC/"/>
+      <tstamp>5C8FE038</tstamp>
+    </comp>
+    <comp ref="R79">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCBB/" tstamps="/5C8FDCBC/"/>
+      <tstamp>5C8FE03F</tstamp>
+    </comp>
+    <comp ref="Q37">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCBB/" tstamps="/5C8FDCBC/"/>
+      <tstamp>5C8FE046</tstamp>
+    </comp>
+    <comp ref="R78">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCBB/" tstamps="/5C8FDCBC/"/>
+      <tstamp>5C8FE04D</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCBB/" tstamps="/5C8FDCBC/"/>
+      <tstamp>5C8FE054</tstamp>
+    </comp>
+    <comp ref="R77">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCBB/" tstamps="/5C8FDCBC/"/>
+      <tstamp>5C8FE05B</tstamp>
+    </comp>
+    <comp ref="U22">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCBE/" tstamps="/5C8FDCBF/"/>
+      <tstamp>5C8FE245</tstamp>
+    </comp>
+    <comp ref="R84">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCBE/" tstamps="/5C8FDCBF/"/>
+      <tstamp>5C8FE24C</tstamp>
+    </comp>
+    <comp ref="R83">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCBE/" tstamps="/5C8FDCBF/"/>
+      <tstamp>5C8FE253</tstamp>
+    </comp>
+    <comp ref="Q38">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCBE/" tstamps="/5C8FDCBF/"/>
+      <tstamp>5C8FE25A</tstamp>
+    </comp>
+    <comp ref="R82">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCBE/" tstamps="/5C8FDCBF/"/>
+      <tstamp>5C8FE261</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCBE/" tstamps="/5C8FDCBF/"/>
+      <tstamp>5C8FE268</tstamp>
+    </comp>
+    <comp ref="R81">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCBE/" tstamps="/5C8FDCBF/"/>
+      <tstamp>5C8FE26F</tstamp>
+    </comp>
+    <comp ref="U23">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCC1/" tstamps="/5C8FDCC2/"/>
+      <tstamp>5C8FE4A6</tstamp>
+    </comp>
+    <comp ref="R88">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC1/" tstamps="/5C8FDCC2/"/>
+      <tstamp>5C8FE4AD</tstamp>
+    </comp>
+    <comp ref="R87">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC1/" tstamps="/5C8FDCC2/"/>
+      <tstamp>5C8FE4B4</tstamp>
+    </comp>
+    <comp ref="Q39">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCC1/" tstamps="/5C8FDCC2/"/>
+      <tstamp>5C8FE4BB</tstamp>
+    </comp>
+    <comp ref="R86">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC1/" tstamps="/5C8FDCC2/"/>
+      <tstamp>5C8FE4C2</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCC1/" tstamps="/5C8FDCC2/"/>
+      <tstamp>5C8FE4C9</tstamp>
+    </comp>
+    <comp ref="R85">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC1/" tstamps="/5C8FDCC2/"/>
+      <tstamp>5C8FE4D0</tstamp>
+    </comp>
+    <comp ref="U24">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCC4/" tstamps="/5C8FDCC5/"/>
+      <tstamp>5C8FE7A8</tstamp>
+    </comp>
+    <comp ref="R92">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC4/" tstamps="/5C8FDCC5/"/>
+      <tstamp>5C8FE7AF</tstamp>
+    </comp>
+    <comp ref="R91">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC4/" tstamps="/5C8FDCC5/"/>
+      <tstamp>5C8FE7B6</tstamp>
+    </comp>
+    <comp ref="Q40">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCC4/" tstamps="/5C8FDCC5/"/>
+      <tstamp>5C8FE7BD</tstamp>
+    </comp>
+    <comp ref="R90">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC4/" tstamps="/5C8FDCC5/"/>
+      <tstamp>5C8FE7C4</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCC4/" tstamps="/5C8FDCC5/"/>
+      <tstamp>5C8FE7CB</tstamp>
+    </comp>
+    <comp ref="R89">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC4/" tstamps="/5C8FDCC5/"/>
+      <tstamp>5C8FE7D2</tstamp>
+    </comp>
+    <comp ref="U25">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCC7/" tstamps="/5C8FDCC8/"/>
+      <tstamp>5C8FE9A7</tstamp>
+    </comp>
+    <comp ref="R96">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC7/" tstamps="/5C8FDCC8/"/>
+      <tstamp>5C8FE9AE</tstamp>
+    </comp>
+    <comp ref="R95">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC7/" tstamps="/5C8FDCC8/"/>
+      <tstamp>5C8FE9B5</tstamp>
+    </comp>
+    <comp ref="Q41">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCC7/" tstamps="/5C8FDCC8/"/>
+      <tstamp>5C8FE9BC</tstamp>
+    </comp>
+    <comp ref="R94">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC7/" tstamps="/5C8FDCC8/"/>
+      <tstamp>5C8FE9C3</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCC7/" tstamps="/5C8FDCC8/"/>
+      <tstamp>5C8FE9CA</tstamp>
+    </comp>
+    <comp ref="R93">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCC7/" tstamps="/5C8FDCC8/"/>
+      <tstamp>5C8FE9D1</tstamp>
+    </comp>
+    <comp ref="U26">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCCA/" tstamps="/5C8FDCCB/"/>
+      <tstamp>5C8FEBC9</tstamp>
+    </comp>
+    <comp ref="R100">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCCA/" tstamps="/5C8FDCCB/"/>
+      <tstamp>5C8FEBD0</tstamp>
+    </comp>
+    <comp ref="R99">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCCA/" tstamps="/5C8FDCCB/"/>
+      <tstamp>5C8FEBD7</tstamp>
+    </comp>
+    <comp ref="Q42">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCCA/" tstamps="/5C8FDCCB/"/>
+      <tstamp>5C8FEBDE</tstamp>
+    </comp>
+    <comp ref="R98">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCCA/" tstamps="/5C8FDCCB/"/>
+      <tstamp>5C8FEBE5</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCCA/" tstamps="/5C8FDCCB/"/>
+      <tstamp>5C8FEBEC</tstamp>
+    </comp>
+    <comp ref="R97">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCCA/" tstamps="/5C8FDCCB/"/>
+      <tstamp>5C8FEBF3</tstamp>
+    </comp>
+    <comp ref="U27">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCCF/" tstamps="/5C8FDCD0/"/>
+      <tstamp>5C8FEDCF</tstamp>
+    </comp>
+    <comp ref="R104">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCCF/" tstamps="/5C8FDCD0/"/>
+      <tstamp>5C8FEDD6</tstamp>
+    </comp>
+    <comp ref="R103">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCCF/" tstamps="/5C8FDCD0/"/>
+      <tstamp>5C8FEDDD</tstamp>
+    </comp>
+    <comp ref="Q43">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCCF/" tstamps="/5C8FDCD0/"/>
+      <tstamp>5C8FEDE4</tstamp>
+    </comp>
+    <comp ref="R102">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCCF/" tstamps="/5C8FDCD0/"/>
+      <tstamp>5C8FEDEB</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCCF/" tstamps="/5C8FDCD0/"/>
+      <tstamp>5C8FEDF2</tstamp>
+    </comp>
+    <comp ref="R101">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCCF/" tstamps="/5C8FDCD0/"/>
+      <tstamp>5C8FEDF9</tstamp>
+    </comp>
+    <comp ref="U28">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCD2/" tstamps="/5C8FDCD3/"/>
+      <tstamp>5C8FEFE3</tstamp>
+    </comp>
+    <comp ref="R108">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD2/" tstamps="/5C8FDCD3/"/>
+      <tstamp>5C8FEFEA</tstamp>
+    </comp>
+    <comp ref="R107">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD2/" tstamps="/5C8FDCD3/"/>
+      <tstamp>5C8FEFF1</tstamp>
+    </comp>
+    <comp ref="Q44">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCD2/" tstamps="/5C8FDCD3/"/>
+      <tstamp>5C8FEFF8</tstamp>
+    </comp>
+    <comp ref="R106">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD2/" tstamps="/5C8FDCD3/"/>
+      <tstamp>5C8FEFFF</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCD2/" tstamps="/5C8FDCD3/"/>
+      <tstamp>5C8FF006</tstamp>
+    </comp>
+    <comp ref="R105">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD2/" tstamps="/5C8FDCD3/"/>
+      <tstamp>5C8FF00D</tstamp>
+    </comp>
+    <comp ref="U29">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCD5/" tstamps="/5C8FDCD6/"/>
+      <tstamp>5C8FF2C2</tstamp>
+    </comp>
+    <comp ref="R112">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD5/" tstamps="/5C8FDCD6/"/>
+      <tstamp>5C8FF2C9</tstamp>
+    </comp>
+    <comp ref="R111">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD5/" tstamps="/5C8FDCD6/"/>
+      <tstamp>5C8FF2D0</tstamp>
+    </comp>
+    <comp ref="Q45">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCD5/" tstamps="/5C8FDCD6/"/>
+      <tstamp>5C8FF2D7</tstamp>
+    </comp>
+    <comp ref="R110">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD5/" tstamps="/5C8FDCD6/"/>
+      <tstamp>5C8FF2DE</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCD5/" tstamps="/5C8FDCD6/"/>
+      <tstamp>5C8FF2E5</tstamp>
+    </comp>
+    <comp ref="R109">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD5/" tstamps="/5C8FDCD6/"/>
+      <tstamp>5C8FF2EC</tstamp>
+    </comp>
+    <comp ref="U30">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCD8/" tstamps="/5C8FDCD9/"/>
+      <tstamp>5C8FF52A</tstamp>
+    </comp>
+    <comp ref="R116">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD8/" tstamps="/5C8FDCD9/"/>
+      <tstamp>5C8FF531</tstamp>
+    </comp>
+    <comp ref="R115">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD8/" tstamps="/5C8FDCD9/"/>
+      <tstamp>5C8FF538</tstamp>
+    </comp>
+    <comp ref="Q46">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCD8/" tstamps="/5C8FDCD9/"/>
+      <tstamp>5C8FF53F</tstamp>
+    </comp>
+    <comp ref="R114">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD8/" tstamps="/5C8FDCD9/"/>
+      <tstamp>5C8FF546</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCD8/" tstamps="/5C8FDCD9/"/>
+      <tstamp>5C8FF54D</tstamp>
+    </comp>
+    <comp ref="R113">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCD8/" tstamps="/5C8FDCD9/"/>
+      <tstamp>5C8FF554</tstamp>
+    </comp>
+    <comp ref="U31">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCDB/" tstamps="/5C8FDCDC/"/>
+      <tstamp>5C8FF742</tstamp>
+    </comp>
+    <comp ref="R120">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCDB/" tstamps="/5C8FDCDC/"/>
+      <tstamp>5C8FF749</tstamp>
+    </comp>
+    <comp ref="R119">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCDB/" tstamps="/5C8FDCDC/"/>
+      <tstamp>5C8FF750</tstamp>
+    </comp>
+    <comp ref="Q47">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCDB/" tstamps="/5C8FDCDC/"/>
+      <tstamp>5C8FF757</tstamp>
+    </comp>
+    <comp ref="R118">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCDB/" tstamps="/5C8FDCDC/"/>
+      <tstamp>5C8FF75E</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCDB/" tstamps="/5C8FDCDC/"/>
+      <tstamp>5C8FF765</tstamp>
+    </comp>
+    <comp ref="R117">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCDB/" tstamps="/5C8FDCDC/"/>
+      <tstamp>5C8FF76C</tstamp>
+    </comp>
+    <comp ref="U32">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCDE/" tstamps="/5C8FDCDF/"/>
+      <tstamp>5C8FF8FB</tstamp>
+    </comp>
+    <comp ref="R124">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCDE/" tstamps="/5C8FDCDF/"/>
+      <tstamp>5C8FF902</tstamp>
+    </comp>
+    <comp ref="R123">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCDE/" tstamps="/5C8FDCDF/"/>
+      <tstamp>5C8FF909</tstamp>
+    </comp>
+    <comp ref="Q48">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCDE/" tstamps="/5C8FDCDF/"/>
+      <tstamp>5C8FF910</tstamp>
+    </comp>
+    <comp ref="R122">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCDE/" tstamps="/5C8FDCDF/"/>
+      <tstamp>5C8FF917</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCDE/" tstamps="/5C8FDCDF/"/>
+      <tstamp>5C8FF91E</tstamp>
+    </comp>
+    <comp ref="R121">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCDE/" tstamps="/5C8FDCDF/"/>
+      <tstamp>5C8FF925</tstamp>
+    </comp>
+    <comp ref="U33">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCE1/" tstamps="/5C8FDCE2/"/>
+      <tstamp>5C8FFAEC</tstamp>
+    </comp>
+    <comp ref="R128">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE1/" tstamps="/5C8FDCE2/"/>
+      <tstamp>5C8FFAF3</tstamp>
+    </comp>
+    <comp ref="R127">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE1/" tstamps="/5C8FDCE2/"/>
+      <tstamp>5C8FFAFA</tstamp>
+    </comp>
+    <comp ref="Q49">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCE1/" tstamps="/5C8FDCE2/"/>
+      <tstamp>5C8FFB01</tstamp>
+    </comp>
+    <comp ref="R126">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE1/" tstamps="/5C8FDCE2/"/>
+      <tstamp>5C8FFB08</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCE1/" tstamps="/5C8FDCE2/"/>
+      <tstamp>5C8FFB0F</tstamp>
+    </comp>
+    <comp ref="R125">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE1/" tstamps="/5C8FDCE2/"/>
+      <tstamp>5C8FFB16</tstamp>
+    </comp>
+    <comp ref="U34">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCE4/" tstamps="/5C8FDCE5/"/>
+      <tstamp>5C8FFD2A</tstamp>
+    </comp>
+    <comp ref="R132">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE4/" tstamps="/5C8FDCE5/"/>
+      <tstamp>5C8FFD31</tstamp>
+    </comp>
+    <comp ref="R131">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE4/" tstamps="/5C8FDCE5/"/>
+      <tstamp>5C8FFD38</tstamp>
+    </comp>
+    <comp ref="Q50">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCE4/" tstamps="/5C8FDCE5/"/>
+      <tstamp>5C8FFD3F</tstamp>
+    </comp>
+    <comp ref="R130">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE4/" tstamps="/5C8FDCE5/"/>
+      <tstamp>5C8FFD46</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCE4/" tstamps="/5C8FDCE5/"/>
+      <tstamp>5C8FFD4D</tstamp>
+    </comp>
+    <comp ref="R129">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE4/" tstamps="/5C8FDCE5/"/>
+      <tstamp>5C8FFD54</tstamp>
+    </comp>
+    <comp ref="U35">
+      <value>VO618A-4</value>
+      <footprint>Housings_DIP:DIP-4_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.vishay.com/docs/81753/vo615a.pdf</datasheet>
+      <libsource lib="Isolator" part="VO615A-4" description="DC Optocoupler, Vce 70V, CTR 160-320% @ 10mA, Viso 5000Vrms, DIP4"/>
+      <sheetpath names="/Sheet5C8FDCE7/" tstamps="/5C8FDCE8/"/>
+      <tstamp>5C8FFF45</tstamp>
+    </comp>
+    <comp ref="R136">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE7/" tstamps="/5C8FDCE8/"/>
+      <tstamp>5C8FFF4C</tstamp>
+    </comp>
+    <comp ref="R135">
+      <value>10K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE7/" tstamps="/5C8FDCE8/"/>
+      <tstamp>5C8FFF53</tstamp>
+    </comp>
+    <comp ref="Q51">
+      <value>IRF510N</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF540N" description="33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"/>
+      <sheetpath names="/Sheet5C8FDCE7/" tstamps="/5C8FDCE8/"/>
+      <tstamp>5C8FFF5A</tstamp>
+    </comp>
+    <comp ref="R134">
+      <value>1.8K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE7/" tstamps="/5C8FDCE8/"/>
+      <tstamp>5C8FFF61</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>LED</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Sheet5C8FDCE7/" tstamps="/5C8FDCE8/"/>
+      <tstamp>5C8FFF68</tstamp>
+    </comp>
+    <comp ref="R133">
+      <value>430</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Sheet5C8FDCE7/" tstamps="/5C8FDCE8/"/>
+      <tstamp>5C8FFF6F</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x12_Counter_Clockwise">
+      <description>Generic connector, double row, 02x12, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x12_Counter_Clockwise</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_PMOS_GSD">
+      <description>P-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PMOS_GSD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Isolator" part="VO615A">
+      <aliases>
+        <alias>VO615A-1</alias>
+        <alias>VO615A-2</alias>
+        <alias>VO615A-3</alias>
+        <alias>VO615A-4</alias>
+        <alias>VO615A-5</alias>
+        <alias>VO615A-6</alias>
+        <alias>VO615A-7</alias>
+        <alias>VO615A-8</alias>
+        <alias>VO615A-9</alias>
+      </aliases>
+      <description>DC Optocoupler, Vce 70V, CTR 50-600% @ 5mA, Viso 5000Vrms, DIP4</description>
+      <docs>http://www.vishay.com/docs/81753/vo615a.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>DIP*W10.16mm*</fp>
+        <fp>SMDIP*W7.62mm*</fp>
+        <fp>SMDIP*W9.53mm*</fp>
+        <fp>SMDIP*W11.48mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">VO615A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+    </libpart>
+    <libpart lib="MeowWolf_Templates" part="TEENSY_3.5">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TEENSY_3.5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="0_RX1_MOSI1_Touch" type="BiDi"/>
+        <pin num="3" name="1_TX1_MISO1_Touch" type="BiDi"/>
+        <pin num="4" name="2_PWM" type="BiDi"/>
+        <pin num="5" name="3_PWM_CAN0TX_SCL2" type="BiDi"/>
+        <pin num="6" name="4_PWM_CAN0RX_SDA2" type="BiDi"/>
+        <pin num="7" name="5_PWM_tx1_miso1" type="BiDi"/>
+        <pin num="8" name="6_PWM" type="BiDi"/>
+        <pin num="9" name="7_RX3_miso0_scl0" type="BiDi"/>
+        <pin num="10" name="8_TX3_miso0_sda0" type="BiDi"/>
+        <pin num="11" name="9_PWM_RX2_CS0" type="BiDi"/>
+        <pin num="12" name="10_PWM_TX2_CS0" type="BiDi"/>
+        <pin num="13" name="11_MOSI0" type="BiDi"/>
+        <pin num="14" name="12_MISO0" type="BiDi"/>
+        <pin num="15" name="3.3V" type="power_out"/>
+        <pin num="16" name="24" type="BiDi"/>
+        <pin num="17" name="25" type="BiDi"/>
+        <pin num="18" name="26_tx1" type="BiDi"/>
+        <pin num="19" name="27_rx1" type="BiDi"/>
+        <pin num="20" name="28" type="BiDi"/>
+        <pin num="21" name="29_PWM_can0tx_Touch" type="BiDi"/>
+        <pin num="22" name="30_PWM_can0rx_Touch" type="BiDi"/>
+        <pin num="23" name="31_A12_RX4_CS1" type="BiDi"/>
+        <pin num="24" name="32_A13_TX4_SCK1" type="BiDi"/>
+        <pin num="25" name="VBat" type="power_in"/>
+        <pin num="26" name="3.3V" type="power_in"/>
+        <pin num="27" name="GND" type="power_in"/>
+        <pin num="28" name="Program" type="input"/>
+        <pin num="29" name="Reset" type="input"/>
+        <pin num="30" name="33_A14_CAN1TX_scl0" type="BiDi"/>
+        <pin num="31" name="34_A15_CAN1TX_sda0" type="BiDi"/>
+        <pin num="32" name="35_A16_PWM" type="BiDi"/>
+        <pin num="33" name="36_A17_PWM" type="BiDi"/>
+        <pin num="34" name="37_A18_PWM_SCL1" type="BiDi"/>
+        <pin num="35" name="38_A19_PWM_SDA1" type="BiDi"/>
+        <pin num="36" name="39_A20" type="BiDi"/>
+        <pin num="37" name="A21_DAC0" type="BiDi"/>
+        <pin num="38" name="A22_DAC1" type="BiDi"/>
+        <pin num="39" name="GND" type="power_in"/>
+        <pin num="40" name="13_SCK0_LED" type="BiDi"/>
+        <pin num="41" name="14_A0_PWM_sck0" type="BiDi"/>
+        <pin num="42" name="15_A1_CS0_Touch" type="BiDi"/>
+        <pin num="43" name="16_A2_scl0_Touch" type="BiDi"/>
+        <pin num="44" name="17_A3_sda0_Touch" type="BiDi"/>
+        <pin num="45" name="18_A4_SDA0_Touch" type="BiDi"/>
+        <pin num="46" name="19_A5_SCL0_Touch" type="BiDi"/>
+        <pin num="47" name="20_A6_PWM_CS0_sck1" type="BiDi"/>
+        <pin num="48" name="21_A7_PWM_CS0_sck1" type="BiDi"/>
+        <pin num="49" name="22_A8_PWM_Touch" type="BiDi"/>
+        <pin num="50" name="23_A9_PWM_Touch" type="BiDi"/>
+        <pin num="51" name="3.3V_max250mA" type="power_out"/>
+        <pin num="52" name="AGND" type="power_out"/>
+        <pin num="53" name="Vin" type="power_in"/>
+        <pin num="54" name="VUSB" type="power_in"/>
+        <pin num="55" name="AREF" type="input"/>
+        <pin num="56" name="A10" type="BiDi"/>
+        <pin num="57" name="A11" type="BiDi"/>
+        <pin num="58" name="not_used" type="NotConnected"/>
+        <pin num="59" name="A26_D-" type="BiDi"/>
+        <pin num="60" name="A25_D+" type="BiDi"/>
+        <pin num="61" name="GND" type="power_in"/>
+        <pin num="62" name="GND" type="power_in"/>
+        <pin num="63" name="G" type="power_in"/>
+        <pin num="64" name="Debug_DE" type="input"/>
+        <pin num="65" name="Debug_DC" type="input"/>
+        <pin num="66" name="Debug_DD" type="input"/>
+        <pin num="67" name="40" type="BiDi"/>
+        <pin num="68" name="41" type="BiDi"/>
+        <pin num="69" name="42" type="BiDi"/>
+        <pin num="70" name="43_CS2" type="BiDi"/>
+        <pin num="71" name="44_MOSI2" type="BiDi"/>
+        <pin num="72" name="45_MISO2" type="BiDi"/>
+        <pin num="73" name="46_SCK2" type="BiDi"/>
+        <pin num="74" name="GND" type="power_in"/>
+        <pin num="75" name="3.3V" type="power_in"/>
+        <pin num="76" name="47_RX6_SCL0" type="BiDi"/>
+        <pin num="77" name="48_TX6_SDA0" type="BiDi"/>
+        <pin num="78" name="49_A23" type="BiDi"/>
+        <pin num="79" name="50_A24" type="BiDi"/>
+        <pin num="80" name="51_MISO2" type="BiDi"/>
+        <pin num="81" name="52_MOSI2" type="BiDi"/>
+        <pin num="82" name="53_SCK2" type="BiDi"/>
+        <pin num="83" name="54_CS2" type="BiDi"/>
+        <pin num="84" name="55" type="BiDi"/>
+        <pin num="85" name="56" type="BiDi"/>
+        <pin num="86" name="57" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="2N3904">
+      <description>0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92</description>
+      <docs>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3904</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="BUZ11">
+      <aliases>
+        <alias>IRF3205</alias>
+        <alias>IRF540N</alias>
+        <alias>IRF740</alias>
+        <alias>IRLB8721PBF</alias>
+        <alias>IRLZ34N</alias>
+        <alias>IRLZ44N</alias>
+      </aliases>
+      <description>30A Id, 50V Vds, N-Channel Power MOSFET, TO-220</description>
+      <docs>http://www.fairchildsemi.com/ds/BU/BUZ11.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BUZ11</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/Library/Application Support/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Library/Application Support/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Isolator">
+      <uri>/Library/Application Support/kicad/library/Isolator.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Library/Application Support/kicad/library/Mechanical.lib</uri>
+    </library>
+    <library logical="MeowWolf_Templates">
+      <uri>/Users/kristenkeilman/Documents/GitHub/KiCad Libraries/Meow_Wolf_KiCad_Library/Libraries/MeowWolf_Templates.lib</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/Library/Application Support/kicad/library/Transistor_BJT.lib</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>/Library/Application Support/kicad/library/Transistor_FET.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Sheet5C8F1E11/BULB1+">
+      <node ref="J2" pin="1"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="2" name="/Sheet5C8F33D0/BULB1-">
+      <node ref="Q3" pin="2"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="3" name="/Sheet5C8F9FCF/BULB2+">
+      <node ref="J2" pin="2"/>
+      <node ref="Q4" pin="3"/>
+    </net>
+    <net code="4" name="/Sheet5C8FAB5D/BULB3+">
+      <node ref="Q6" pin="3"/>
+      <node ref="J2" pin="3"/>
+    </net>
+    <net code="5" name="/Sheet5C8FB470/BULB4+">
+      <node ref="J2" pin="4"/>
+      <node ref="Q8" pin="3"/>
+    </net>
+    <net code="6" name="/Sheet5C8FB769/BULB5+">
+      <node ref="J2" pin="5"/>
+      <node ref="Q10" pin="3"/>
+    </net>
+    <net code="7" name="/Sheet5C8FB76C/BULB6+">
+      <node ref="J2" pin="6"/>
+      <node ref="Q12" pin="3"/>
+    </net>
+    <net code="8" name="/Sheet5C8FB76F/BULB7+">
+      <node ref="J2" pin="7"/>
+      <node ref="Q14" pin="3"/>
+    </net>
+    <net code="9" name="/Sheet5C8FB772/BULB8+">
+      <node ref="Q16" pin="3"/>
+      <node ref="J2" pin="8"/>
+    </net>
+    <net code="10" name="/Sheet5C8FB775/BULB9+">
+      <node ref="J2" pin="9"/>
+      <node ref="Q18" pin="3"/>
+    </net>
+    <net code="11" name="/Sheet5C8FB778/BULB10+">
+      <node ref="Q20" pin="3"/>
+      <node ref="J2" pin="10"/>
+    </net>
+    <net code="12" name="/Sheet5C8FB77B/BULB11+">
+      <node ref="J2" pin="11"/>
+      <node ref="Q22" pin="3"/>
+    </net>
+    <net code="13" name="/Sheet5C8FB77E/BULB12+">
+      <node ref="J2" pin="12"/>
+      <node ref="Q24" pin="3"/>
+    </net>
+    <net code="14" name="/Sheet5C8FB781/BULB13+">
+      <node ref="Q26" pin="3"/>
+      <node ref="J2" pin="13"/>
+    </net>
+    <net code="15" name="/Sheet5C8FB784/BULB14+">
+      <node ref="Q28" pin="3"/>
+      <node ref="J2" pin="14"/>
+    </net>
+    <net code="16" name="/Sheet5C8FB787/BULB15+">
+      <node ref="J2" pin="15"/>
+      <node ref="Q30" pin="3"/>
+    </net>
+    <net code="17" name="/Sheet5C8FB78A/BULB16+">
+      <node ref="J2" pin="16"/>
+      <node ref="Q32" pin="3"/>
+    </net>
+    <net code="18" name="/Sheet5C8FB78D/BULB17+">
+      <node ref="J2" pin="17"/>
+      <node ref="Q34" pin="3"/>
+    </net>
+    <net code="19" name="/Sheet5C8FDCB8/BULB2-">
+      <node ref="J1" pin="2"/>
+      <node ref="Q36" pin="2"/>
+    </net>
+    <net code="20" name="/Sheet5C8FDCBB/BULB3-">
+      <node ref="Q37" pin="2"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="21" name="/Sheet5C8FDCBE/BULB4-">
+      <node ref="Q38" pin="2"/>
+      <node ref="J1" pin="4"/>
+    </net>
+    <net code="22" name="/Sheet5C8FDCC1/BULB5-">
+      <node ref="J1" pin="5"/>
+      <node ref="Q39" pin="2"/>
+    </net>
+    <net code="23" name="/Sheet5C8FDCC4/BULB6-">
+      <node ref="Q40" pin="2"/>
+      <node ref="J1" pin="6"/>
+    </net>
+    <net code="24" name="PIN26">
+      <node ref="U24" pin="2"/>
+      <node ref="U1" pin="18"/>
+      <node ref="R90" pin="1"/>
+    </net>
+    <net code="25" name="/Sheet5C8FDCC7/BULB7-">
+      <node ref="Q41" pin="2"/>
+      <node ref="J1" pin="7"/>
+    </net>
+    <net code="26" name="/Sheet5C8FDCCA/BULB8-">
+      <node ref="Q42" pin="2"/>
+      <node ref="J1" pin="8"/>
+    </net>
+    <net code="27" name="/Sheet5C8FDCCF/BULB9-">
+      <node ref="J1" pin="9"/>
+      <node ref="Q43" pin="2"/>
+    </net>
+    <net code="28" name="/Sheet5C8FDCD2/BULB10-">
+      <node ref="Q44" pin="2"/>
+      <node ref="J1" pin="10"/>
+    </net>
+    <net code="29" name="/Sheet5C8FDCD5/BULB11-">
+      <node ref="J1" pin="11"/>
+      <node ref="Q45" pin="2"/>
+    </net>
+    <net code="30" name="PIN31">
+      <node ref="U29" pin="2"/>
+      <node ref="U1" pin="23"/>
+      <node ref="R110" pin="1"/>
+    </net>
+    <net code="31" name="/Sheet5C8FDCD8/BULB12-">
+      <node ref="Q46" pin="2"/>
+      <node ref="J1" pin="12"/>
+    </net>
+    <net code="32" name="/Sheet5C8FDCDE/BULB14-">
+      <node ref="J1" pin="14"/>
+      <node ref="Q48" pin="2"/>
+    </net>
+    <net code="33" name="/Sheet5C8FDCE4/BULB16-">
+      <node ref="Q50" pin="2"/>
+      <node ref="J1" pin="16"/>
+    </net>
+    <net code="34" name="/Sheet5C8FDCE7/BULB17-">
+      <node ref="J1" pin="17"/>
+      <node ref="Q51" pin="2"/>
+    </net>
+    <net code="35" name="Net-(U1-Pad15)">
+      <node ref="U1" pin="15"/>
+    </net>
+    <net code="36" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="37" name="Net-(U1-Pad25)">
+      <node ref="U1" pin="25"/>
+    </net>
+    <net code="38" name="Net-(U1-Pad26)">
+      <node ref="U1" pin="26"/>
+    </net>
+    <net code="39" name="Net-(U1-Pad27)">
+      <node ref="U1" pin="27"/>
+    </net>
+    <net code="40" name="Net-(U1-Pad28)">
+      <node ref="U1" pin="28"/>
+    </net>
+    <net code="41" name="Net-(U1-Pad29)">
+      <node ref="U1" pin="29"/>
+    </net>
+    <net code="42" name="Net-(U1-Pad35)">
+      <node ref="U1" pin="35"/>
+    </net>
+    <net code="43" name="Net-(U1-Pad36)">
+      <node ref="U1" pin="36"/>
+    </net>
+    <net code="44" name="Net-(U1-Pad37)">
+      <node ref="U1" pin="37"/>
+    </net>
+    <net code="45" name="Net-(U1-Pad38)">
+      <node ref="U1" pin="38"/>
+    </net>
+    <net code="46" name="Net-(U1-Pad39)">
+      <node ref="U1" pin="39"/>
+    </net>
+    <net code="47" name="Net-(U1-Pad45)">
+      <node ref="U1" pin="45"/>
+    </net>
+    <net code="48" name="Net-(U1-Pad46)">
+      <node ref="U1" pin="46"/>
+    </net>
+    <net code="49" name="Net-(U1-Pad47)">
+      <node ref="U1" pin="47"/>
+    </net>
+    <net code="50" name="Net-(U1-Pad51)">
+      <node ref="U1" pin="51"/>
+    </net>
+    <net code="51" name="Net-(U1-Pad52)">
+      <node ref="U1" pin="52"/>
+    </net>
+    <net code="52" name="Net-(U1-Pad54)">
+      <node ref="U1" pin="54"/>
+    </net>
+    <net code="53" name="Net-(U1-Pad55)">
+      <node ref="U1" pin="55"/>
+    </net>
+    <net code="54" name="Net-(U1-Pad56)">
+      <node ref="U1" pin="56"/>
+    </net>
+    <net code="55" name="Net-(U1-Pad57)">
+      <node ref="U1" pin="57"/>
+    </net>
+    <net code="56" name="Net-(U1-Pad58)">
+      <node ref="U1" pin="58"/>
+    </net>
+    <net code="57" name="Net-(U1-Pad59)">
+      <node ref="U1" pin="59"/>
+    </net>
+    <net code="58" name="Net-(U1-Pad60)">
+      <node ref="U1" pin="60"/>
+    </net>
+    <net code="59" name="Net-(U1-Pad61)">
+      <node ref="U1" pin="61"/>
+    </net>
+    <net code="60" name="Net-(U1-Pad62)">
+      <node ref="U1" pin="62"/>
+    </net>
+    <net code="61" name="Net-(U1-Pad63)">
+      <node ref="U1" pin="63"/>
+    </net>
+    <net code="62" name="Net-(U1-Pad64)">
+      <node ref="U1" pin="64"/>
+    </net>
+    <net code="63" name="Net-(U1-Pad65)">
+      <node ref="U1" pin="65"/>
+    </net>
+    <net code="64" name="Net-(U1-Pad66)">
+      <node ref="U1" pin="66"/>
+    </net>
+    <net code="65" name="Net-(U1-Pad67)">
+      <node ref="U1" pin="67"/>
+    </net>
+    <net code="66" name="Net-(U1-Pad68)">
+      <node ref="U1" pin="68"/>
+    </net>
+    <net code="67" name="Net-(U1-Pad69)">
+      <node ref="U1" pin="69"/>
+    </net>
+    <net code="68" name="Net-(U1-Pad70)">
+      <node ref="U1" pin="70"/>
+    </net>
+    <net code="69" name="Net-(U1-Pad71)">
+      <node ref="U1" pin="71"/>
+    </net>
+    <net code="70" name="Net-(U1-Pad72)">
+      <node ref="U1" pin="72"/>
+    </net>
+    <net code="71" name="Net-(U1-Pad73)">
+      <node ref="U1" pin="73"/>
+    </net>
+    <net code="72" name="Net-(U1-Pad74)">
+      <node ref="U1" pin="74"/>
+    </net>
+    <net code="73" name="Net-(U1-Pad75)">
+      <node ref="U1" pin="75"/>
+    </net>
+    <net code="74" name="Net-(U1-Pad76)">
+      <node ref="U1" pin="76"/>
+    </net>
+    <net code="75" name="Net-(U1-Pad77)">
+      <node ref="U1" pin="77"/>
+    </net>
+    <net code="76" name="Net-(U1-Pad78)">
+      <node ref="U1" pin="78"/>
+    </net>
+    <net code="77" name="Net-(U1-Pad79)">
+      <node ref="U1" pin="79"/>
+    </net>
+    <net code="78" name="Net-(U1-Pad80)">
+      <node ref="U1" pin="80"/>
+    </net>
+    <net code="79" name="Net-(U1-Pad81)">
+      <node ref="U1" pin="81"/>
+    </net>
+    <net code="80" name="Net-(U1-Pad82)">
+      <node ref="U1" pin="82"/>
+    </net>
+    <net code="81" name="Net-(U1-Pad83)">
+      <node ref="U1" pin="83"/>
+    </net>
+    <net code="82" name="Net-(U1-Pad84)">
+      <node ref="U1" pin="84"/>
+    </net>
+    <net code="83" name="Net-(U1-Pad85)">
+      <node ref="U1" pin="85"/>
+    </net>
+    <net code="84" name="Net-(U1-Pad86)">
+      <node ref="U1" pin="86"/>
+    </net>
+    <net code="85" name="PIN1">
+      <node ref="U2" pin="2"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="86" name="PIN2">
+      <node ref="U1" pin="4"/>
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="87" name="PIN16">
+      <node ref="U18" pin="2"/>
+      <node ref="U1" pin="43"/>
+    </net>
+    <net code="88" name="PIN3">
+      <node ref="U5" pin="2"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="89" name="PIN4">
+      <node ref="U6" pin="2"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="90" name="PIN6">
+      <node ref="U1" pin="8"/>
+      <node ref="U8" pin="2"/>
+    </net>
+    <net code="91" name="PIN7">
+      <node ref="U9" pin="2"/>
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="92" name="PIN8">
+      <node ref="U10" pin="2"/>
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="93" name="PIN9">
+      <node ref="U11" pin="2"/>
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="94" name="PIN10">
+      <node ref="U12" pin="2"/>
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="95" name="PIN11">
+      <node ref="U13" pin="2"/>
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="96" name="PIN12">
+      <node ref="U14" pin="2"/>
+      <node ref="U1" pin="14"/>
+    </net>
+    <net code="97" name="PIN13">
+      <node ref="U1" pin="40"/>
+      <node ref="U15" pin="2"/>
+    </net>
+    <net code="98" name="PIN14">
+      <node ref="U1" pin="41"/>
+      <node ref="U16" pin="2"/>
+    </net>
+    <net code="99" name="PIN15">
+      <node ref="U17" pin="2"/>
+      <node ref="U1" pin="42"/>
+    </net>
+    <net code="100" name="PIN17">
+      <node ref="U19" pin="2"/>
+      <node ref="U1" pin="44"/>
+    </net>
+    <net code="101" name="PIN21">
+      <node ref="U1" pin="48"/>
+      <node ref="R6" pin="1"/>
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="102" name="PIN22">
+      <node ref="U20" pin="2"/>
+      <node ref="R74" pin="1"/>
+      <node ref="U1" pin="49"/>
+    </net>
+    <net code="103" name="PIN23">
+      <node ref="U21" pin="2"/>
+      <node ref="U1" pin="50"/>
+      <node ref="R78" pin="1"/>
+    </net>
+    <net code="104" name="PIN24">
+      <node ref="U1" pin="16"/>
+      <node ref="R82" pin="1"/>
+      <node ref="U22" pin="2"/>
+    </net>
+    <net code="105" name="PIN25">
+      <node ref="U1" pin="17"/>
+      <node ref="R86" pin="1"/>
+      <node ref="U23" pin="2"/>
+    </net>
+    <net code="106" name="PIN27">
+      <node ref="U1" pin="19"/>
+      <node ref="R94" pin="1"/>
+      <node ref="U25" pin="2"/>
+    </net>
+    <net code="107" name="PIN28">
+      <node ref="U1" pin="20"/>
+      <node ref="U26" pin="2"/>
+      <node ref="R98" pin="1"/>
+    </net>
+    <net code="108" name="PIN29">
+      <node ref="R102" pin="1"/>
+      <node ref="U1" pin="21"/>
+      <node ref="U27" pin="2"/>
+    </net>
+    <net code="109" name="PIN30">
+      <node ref="R106" pin="1"/>
+      <node ref="U28" pin="2"/>
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="110" name="PIN32">
+      <node ref="R114" pin="1"/>
+      <node ref="U1" pin="24"/>
+      <node ref="U30" pin="2"/>
+    </net>
+    <net code="111" name="PIN33">
+      <node ref="R118" pin="1"/>
+      <node ref="U1" pin="30"/>
+      <node ref="U31" pin="2"/>
+    </net>
+    <net code="112" name="PIN34">
+      <node ref="R122" pin="1"/>
+      <node ref="U32" pin="2"/>
+      <node ref="U1" pin="31"/>
+    </net>
+    <net code="113" name="PIN35">
+      <node ref="U1" pin="32"/>
+      <node ref="U33" pin="2"/>
+      <node ref="R126" pin="1"/>
+    </net>
+    <net code="114" name="PIN36">
+      <node ref="R130" pin="1"/>
+      <node ref="U1" pin="33"/>
+      <node ref="U34" pin="2"/>
+    </net>
+    <net code="115" name="PIN37">
+      <node ref="U1" pin="34"/>
+      <node ref="U35" pin="2"/>
+      <node ref="R134" pin="1"/>
+    </net>
+    <net code="116" name="PIN5">
+      <node ref="U7" pin="2"/>
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="117" name="/Sheet5C8FDCE1/BULB15-">
+      <node ref="J1" pin="15"/>
+      <node ref="Q49" pin="2"/>
+    </net>
+    <net code="118" name="Net-(J1-Pad18)">
+      <node ref="J1" pin="18"/>
+    </net>
+    <net code="119" name="Net-(J1-Pad19)">
+      <node ref="J1" pin="19"/>
+    </net>
+    <net code="120" name="Net-(J1-Pad20)">
+      <node ref="J1" pin="20"/>
+    </net>
+    <net code="121" name="Net-(J1-Pad21)">
+      <node ref="J1" pin="21"/>
+    </net>
+    <net code="122" name="Net-(J1-Pad22)">
+      <node ref="J1" pin="22"/>
+    </net>
+    <net code="123" name="Net-(J1-Pad23)">
+      <node ref="J1" pin="23"/>
+    </net>
+    <net code="124" name="Net-(J1-Pad24)">
+      <node ref="J1" pin="24"/>
+    </net>
+    <net code="125" name="/Sheet5C8FDCDB/BULB13-">
+      <node ref="J1" pin="13"/>
+      <node ref="Q47" pin="2"/>
+    </net>
+    <net code="126" name="Net-(J2-Pad18)">
+      <node ref="J2" pin="18"/>
+    </net>
+    <net code="127" name="Net-(J2-Pad19)">
+      <node ref="J2" pin="19"/>
+    </net>
+    <net code="128" name="Net-(J2-Pad20)">
+      <node ref="J2" pin="20"/>
+    </net>
+    <net code="129" name="Net-(J2-Pad21)">
+      <node ref="J2" pin="21"/>
+    </net>
+    <net code="130" name="Net-(J2-Pad22)">
+      <node ref="J2" pin="22"/>
+    </net>
+    <net code="131" name="Net-(J2-Pad23)">
+      <node ref="J2" pin="23"/>
+    </net>
+    <net code="132" name="Net-(J2-Pad24)">
+      <node ref="J2" pin="24"/>
+    </net>
+    <net code="133" name="+12V">
+      <node ref="U22" pin="4"/>
+      <node ref="U31" pin="4"/>
+      <node ref="R20" pin="1"/>
+      <node ref="Q8" pin="2"/>
+      <node ref="U7" pin="4"/>
+      <node ref="U6" pin="4"/>
+      <node ref="R56" pin="1"/>
+      <node ref="Q26" pin="2"/>
+      <node ref="U15" pin="4"/>
+      <node ref="Q10" pin="2"/>
+      <node ref="R24" pin="1"/>
+      <node ref="U32" pin="4"/>
+      <node ref="U16" pin="4"/>
+      <node ref="U30" pin="4"/>
+      <node ref="Q28" pin="2"/>
+      <node ref="R60" pin="1"/>
+      <node ref="R16" pin="1"/>
+      <node ref="Q6" pin="2"/>
+      <node ref="U8" pin="4"/>
+      <node ref="U21" pin="4"/>
+      <node ref="U5" pin="4"/>
+      <node ref="U23" pin="4"/>
+      <node ref="Q12" pin="2"/>
+      <node ref="R28" pin="1"/>
+      <node ref="U33" pin="4"/>
+      <node ref="U29" pin="4"/>
+      <node ref="R52" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="Q4" pin="2"/>
+      <node ref="U9" pin="4"/>
+      <node ref="Q24" pin="2"/>
+      <node ref="U14" pin="4"/>
+      <node ref="U17" pin="4"/>
+      <node ref="Q30" pin="2"/>
+      <node ref="U4" pin="4"/>
+      <node ref="R64" pin="1"/>
+      <node ref="Q14" pin="2"/>
+      <node ref="R32" pin="1"/>
+      <node ref="U28" pin="4"/>
+      <node ref="U34" pin="4"/>
+      <node ref="U20" pin="4"/>
+      <node ref="U10" pin="4"/>
+      <node ref="U3" pin="4"/>
+      <node ref="U24" pin="4"/>
+      <node ref="Q16" pin="2"/>
+      <node ref="R36" pin="1"/>
+      <node ref="R48" pin="1"/>
+      <node ref="Q22" pin="2"/>
+      <node ref="U35" pin="4"/>
+      <node ref="U13" pin="4"/>
+      <node ref="U18" pin="4"/>
+      <node ref="U27" pin="4"/>
+      <node ref="R4" pin="1"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="Q32" pin="2"/>
+      <node ref="U11" pin="4"/>
+      <node ref="R68" pin="1"/>
+      <node ref="Q18" pin="2"/>
+      <node ref="U2" pin="4"/>
+      <node ref="R40" pin="1"/>
+      <node ref="R72" pin="1"/>
+      <node ref="Q34" pin="2"/>
+      <node ref="U25" pin="4"/>
+      <node ref="U26" pin="4"/>
+      <node ref="U19" pin="4"/>
+      <node ref="U12" pin="4"/>
+      <node ref="R44" pin="1"/>
+      <node ref="J3" pin="2"/>
+      <node ref="Q20" pin="2"/>
+    </net>
+    <net code="134" name="GND">
+      <node ref="R43" pin="2"/>
+      <node ref="Q21" pin="1"/>
+      <node ref="R100" pin="1"/>
+      <node ref="R99" pin="1"/>
+      <node ref="Q41" pin="3"/>
+      <node ref="Q42" pin="3"/>
+      <node ref="R95" pin="1"/>
+      <node ref="R96" pin="1"/>
+      <node ref="U1" pin="1"/>
+      <node ref="R39" pin="2"/>
+      <node ref="Q19" pin="1"/>
+      <node ref="R104" pin="1"/>
+      <node ref="R103" pin="1"/>
+      <node ref="Q43" pin="3"/>
+      <node ref="Q23" pin="1"/>
+      <node ref="R47" pin="2"/>
+      <node ref="Q40" pin="3"/>
+      <node ref="R35" pin="2"/>
+      <node ref="R91" pin="1"/>
+      <node ref="R92" pin="1"/>
+      <node ref="Q17" pin="1"/>
+      <node ref="R108" pin="1"/>
+      <node ref="R107" pin="1"/>
+      <node ref="Q44" pin="3"/>
+      <node ref="R31" pin="2"/>
+      <node ref="Q25" pin="1"/>
+      <node ref="R51" pin="2"/>
+      <node ref="Q15" pin="1"/>
+      <node ref="R112" pin="1"/>
+      <node ref="R111" pin="1"/>
+      <node ref="Q45" pin="3"/>
+      <node ref="Q39" pin="3"/>
+      <node ref="R87" pin="1"/>
+      <node ref="R88" pin="1"/>
+      <node ref="R27" pin="2"/>
+      <node ref="Q13" pin="1"/>
+      <node ref="R116" pin="1"/>
+      <node ref="R115" pin="1"/>
+      <node ref="Q46" pin="3"/>
+      <node ref="Q27" pin="1"/>
+      <node ref="R55" pin="2"/>
+      <node ref="R23" pin="2"/>
+      <node ref="R120" pin="1"/>
+      <node ref="Q38" pin="3"/>
+      <node ref="R119" pin="1"/>
+      <node ref="Q47" pin="3"/>
+      <node ref="R83" pin="1"/>
+      <node ref="R84" pin="1"/>
+      <node ref="R19" pin="2"/>
+      <node ref="Q9" pin="1"/>
+      <node ref="R124" pin="1"/>
+      <node ref="R123" pin="1"/>
+      <node ref="Q48" pin="3"/>
+      <node ref="Q29" pin="1"/>
+      <node ref="R59" pin="2"/>
+      <node ref="Q37" pin="3"/>
+      <node ref="R15" pin="2"/>
+      <node ref="R79" pin="1"/>
+      <node ref="R80" pin="1"/>
+      <node ref="Q7" pin="1"/>
+      <node ref="R128" pin="1"/>
+      <node ref="R127" pin="1"/>
+      <node ref="Q49" pin="3"/>
+      <node ref="R11" pin="2"/>
+      <node ref="Q31" pin="1"/>
+      <node ref="R63" pin="2"/>
+      <node ref="Q5" pin="1"/>
+      <node ref="Q3" pin="3"/>
+      <node ref="R132" pin="1"/>
+      <node ref="R131" pin="1"/>
+      <node ref="Q36" pin="3"/>
+      <node ref="Q50" pin="3"/>
+      <node ref="R75" pin="1"/>
+      <node ref="R76" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="Q2" pin="1"/>
+      <node ref="R136" pin="1"/>
+      <node ref="R135" pin="1"/>
+      <node ref="Q51" pin="3"/>
+      <node ref="Q33" pin="1"/>
+      <node ref="R67" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R71" pin="2"/>
+      <node ref="Q35" pin="1"/>
+      <node ref="J3" pin="1"/>
+      <node ref="Q11" pin="1"/>
+    </net>
+    <net code="135" name="+5V">
+      <node ref="R1" pin="2"/>
+      <node ref="U1" pin="53"/>
+      <node ref="R21" pin="2"/>
+      <node ref="R65" pin="2"/>
+      <node ref="R69" pin="2"/>
+      <node ref="R133" pin="2"/>
+      <node ref="D17" pin="2"/>
+      <node ref="R41" pin="2"/>
+      <node ref="R93" pin="2"/>
+      <node ref="D7" pin="2"/>
+      <node ref="R113" pin="2"/>
+      <node ref="D8" pin="2"/>
+      <node ref="D12" pin="2"/>
+      <node ref="R97" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R129" pin="2"/>
+      <node ref="D16" pin="2"/>
+      <node ref="D2" pin="2"/>
+      <node ref="R73" pin="2"/>
+      <node ref="R61" pin="2"/>
+      <node ref="R37" pin="2"/>
+      <node ref="R45" pin="2"/>
+      <node ref="R89" pin="2"/>
+      <node ref="D6" pin="2"/>
+      <node ref="D13" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R125" pin="2"/>
+      <node ref="D15" pin="2"/>
+      <node ref="R117" pin="2"/>
+      <node ref="D3" pin="2"/>
+      <node ref="R77" pin="2"/>
+      <node ref="R57" pin="2"/>
+      <node ref="D9" pin="2"/>
+      <node ref="R101" pin="2"/>
+      <node ref="R33" pin="2"/>
+      <node ref="R17" pin="2"/>
+      <node ref="R13" pin="2"/>
+      <node ref="D11" pin="2"/>
+      <node ref="R121" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="D14" pin="2"/>
+      <node ref="R81" pin="2"/>
+      <node ref="R53" pin="2"/>
+      <node ref="R49" pin="2"/>
+      <node ref="R29" pin="2"/>
+      <node ref="R85" pin="2"/>
+      <node ref="D5" pin="2"/>
+      <node ref="R105" pin="2"/>
+      <node ref="R109" pin="2"/>
+      <node ref="D10" pin="2"/>
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="136" name="Net-(R2-Pad2)">
+      <node ref="U2" pin="3"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="137" name="Net-(Q2-Pad2)">
+      <node ref="R2" pin="1"/>
+      <node ref="Q2" pin="2"/>
+    </net>
+    <net code="138" name="Net-(R1-Pad1)">
+      <node ref="U2" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="139" name="Net-(Q1-Pad1)">
+      <node ref="Q2" pin="3"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="140" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="U3" pin="3"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="141" name="Net-(D1-Pad1)">
+      <node ref="R6" pin="2"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="142" name="Net-(R5-Pad1)">
+      <node ref="U3" pin="1"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="143" name="Net-(R10-Pad2)">
+      <node ref="U4" pin="3"/>
+      <node ref="R11" pin="1"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="144" name="Net-(Q4-Pad1)">
+      <node ref="Q5" pin="3"/>
+      <node ref="R12" pin="2"/>
+      <node ref="Q4" pin="1"/>
+    </net>
+    <net code="145" name="Net-(Q5-Pad2)">
+      <node ref="Q5" pin="2"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="146" name="Net-(R9-Pad1)">
+      <node ref="U4" pin="1"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="147" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2"/>
+      <node ref="R15" pin="1"/>
+      <node ref="U5" pin="3"/>
+    </net>
+    <net code="148" name="Net-(Q6-Pad1)">
+      <node ref="R16" pin="2"/>
+      <node ref="Q6" pin="1"/>
+      <node ref="Q7" pin="3"/>
+    </net>
+    <net code="149" name="Net-(Q7-Pad2)">
+      <node ref="R14" pin="1"/>
+      <node ref="Q7" pin="2"/>
+    </net>
+    <net code="150" name="Net-(R13-Pad1)">
+      <node ref="U5" pin="1"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="151" name="Net-(R18-Pad2)">
+      <node ref="U6" pin="3"/>
+      <node ref="R19" pin="1"/>
+      <node ref="R18" pin="2"/>
+    </net>
+    <net code="152" name="Net-(Q8-Pad1)">
+      <node ref="Q8" pin="1"/>
+      <node ref="R20" pin="2"/>
+      <node ref="Q9" pin="3"/>
+    </net>
+    <net code="153" name="Net-(Q9-Pad2)">
+      <node ref="R18" pin="1"/>
+      <node ref="Q9" pin="2"/>
+    </net>
+    <net code="154" name="Net-(R17-Pad1)">
+      <node ref="U6" pin="1"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="155" name="Net-(R22-Pad2)">
+      <node ref="U7" pin="3"/>
+      <node ref="R22" pin="2"/>
+      <node ref="R23" pin="1"/>
+    </net>
+    <net code="156" name="Net-(Q10-Pad1)">
+      <node ref="Q10" pin="1"/>
+      <node ref="R24" pin="2"/>
+      <node ref="Q11" pin="3"/>
+    </net>
+    <net code="157" name="Net-(Q11-Pad2)">
+      <node ref="Q11" pin="2"/>
+      <node ref="R22" pin="1"/>
+    </net>
+    <net code="158" name="Net-(R21-Pad1)">
+      <node ref="R21" pin="1"/>
+      <node ref="U7" pin="1"/>
+    </net>
+    <net code="159" name="Net-(R26-Pad2)">
+      <node ref="R26" pin="2"/>
+      <node ref="R27" pin="1"/>
+      <node ref="U8" pin="3"/>
+    </net>
+    <net code="160" name="Net-(Q12-Pad1)">
+      <node ref="R28" pin="2"/>
+      <node ref="Q12" pin="1"/>
+      <node ref="Q13" pin="3"/>
+    </net>
+    <net code="161" name="Net-(Q13-Pad2)">
+      <node ref="R26" pin="1"/>
+      <node ref="Q13" pin="2"/>
+    </net>
+    <net code="162" name="Net-(R25-Pad1)">
+      <node ref="U8" pin="1"/>
+      <node ref="R25" pin="1"/>
+    </net>
+    <net code="163" name="Net-(R30-Pad2)">
+      <node ref="R31" pin="1"/>
+      <node ref="U9" pin="3"/>
+      <node ref="R30" pin="2"/>
+    </net>
+    <net code="164" name="Net-(Q14-Pad1)">
+      <node ref="R32" pin="2"/>
+      <node ref="Q14" pin="1"/>
+      <node ref="Q15" pin="3"/>
+    </net>
+    <net code="165" name="Net-(Q15-Pad2)">
+      <node ref="Q15" pin="2"/>
+      <node ref="R30" pin="1"/>
+    </net>
+    <net code="166" name="Net-(R29-Pad1)">
+      <node ref="R29" pin="1"/>
+      <node ref="U9" pin="1"/>
+    </net>
+    <net code="167" name="Net-(R34-Pad2)">
+      <node ref="R34" pin="2"/>
+      <node ref="R35" pin="1"/>
+      <node ref="U10" pin="3"/>
+    </net>
+    <net code="168" name="Net-(Q16-Pad1)">
+      <node ref="Q17" pin="3"/>
+      <node ref="R36" pin="2"/>
+      <node ref="Q16" pin="1"/>
+    </net>
+    <net code="169" name="Net-(Q17-Pad2)">
+      <node ref="Q17" pin="2"/>
+      <node ref="R34" pin="1"/>
+    </net>
+    <net code="170" name="Net-(R33-Pad1)">
+      <node ref="R33" pin="1"/>
+      <node ref="U10" pin="1"/>
+    </net>
+    <net code="171" name="Net-(R38-Pad2)">
+      <node ref="R38" pin="2"/>
+      <node ref="R39" pin="1"/>
+      <node ref="U11" pin="3"/>
+    </net>
+    <net code="172" name="Net-(Q18-Pad1)">
+      <node ref="Q18" pin="1"/>
+      <node ref="Q19" pin="3"/>
+      <node ref="R40" pin="2"/>
+    </net>
+    <net code="173" name="Net-(Q19-Pad2)">
+      <node ref="Q19" pin="2"/>
+      <node ref="R38" pin="1"/>
+    </net>
+    <net code="174" name="Net-(R37-Pad1)">
+      <node ref="R37" pin="1"/>
+      <node ref="U11" pin="1"/>
+    </net>
+    <net code="175" name="Net-(R42-Pad2)">
+      <node ref="R43" pin="1"/>
+      <node ref="R42" pin="2"/>
+      <node ref="U12" pin="3"/>
+    </net>
+    <net code="176" name="Net-(Q20-Pad1)">
+      <node ref="Q21" pin="3"/>
+      <node ref="R44" pin="2"/>
+      <node ref="Q20" pin="1"/>
+    </net>
+    <net code="177" name="Net-(Q21-Pad2)">
+      <node ref="R42" pin="1"/>
+      <node ref="Q21" pin="2"/>
+    </net>
+    <net code="178" name="Net-(R41-Pad1)">
+      <node ref="R41" pin="1"/>
+      <node ref="U12" pin="1"/>
+    </net>
+    <net code="179" name="Net-(R46-Pad2)">
+      <node ref="U13" pin="3"/>
+      <node ref="R47" pin="1"/>
+      <node ref="R46" pin="2"/>
+    </net>
+    <net code="180" name="Net-(Q22-Pad1)">
+      <node ref="Q23" pin="3"/>
+      <node ref="Q22" pin="1"/>
+      <node ref="R48" pin="2"/>
+    </net>
+    <net code="181" name="Net-(Q23-Pad2)">
+      <node ref="Q23" pin="2"/>
+      <node ref="R46" pin="1"/>
+    </net>
+    <net code="182" name="Net-(R45-Pad1)">
+      <node ref="U13" pin="1"/>
+      <node ref="R45" pin="1"/>
+    </net>
+    <net code="183" name="Net-(R50-Pad2)">
+      <node ref="R50" pin="2"/>
+      <node ref="R51" pin="1"/>
+      <node ref="U14" pin="3"/>
+    </net>
+    <net code="184" name="Net-(Q24-Pad1)">
+      <node ref="R52" pin="2"/>
+      <node ref="Q24" pin="1"/>
+      <node ref="Q25" pin="3"/>
+    </net>
+    <net code="185" name="Net-(Q25-Pad2)">
+      <node ref="Q25" pin="2"/>
+      <node ref="R50" pin="1"/>
+    </net>
+    <net code="186" name="Net-(R49-Pad1)">
+      <node ref="U14" pin="1"/>
+      <node ref="R49" pin="1"/>
+    </net>
+    <net code="187" name="Net-(R54-Pad2)">
+      <node ref="R54" pin="2"/>
+      <node ref="R55" pin="1"/>
+      <node ref="U15" pin="3"/>
+    </net>
+    <net code="188" name="Net-(Q26-Pad1)">
+      <node ref="R56" pin="2"/>
+      <node ref="Q26" pin="1"/>
+      <node ref="Q27" pin="3"/>
+    </net>
+    <net code="189" name="Net-(Q27-Pad2)">
+      <node ref="R54" pin="1"/>
+      <node ref="Q27" pin="2"/>
+    </net>
+    <net code="190" name="Net-(R53-Pad1)">
+      <node ref="U15" pin="1"/>
+      <node ref="R53" pin="1"/>
+    </net>
+    <net code="191" name="Net-(R58-Pad2)">
+      <node ref="U16" pin="3"/>
+      <node ref="R59" pin="1"/>
+      <node ref="R58" pin="2"/>
+    </net>
+    <net code="192" name="Net-(Q28-Pad1)">
+      <node ref="Q29" pin="3"/>
+      <node ref="Q28" pin="1"/>
+      <node ref="R60" pin="2"/>
+    </net>
+    <net code="193" name="Net-(Q29-Pad2)">
+      <node ref="Q29" pin="2"/>
+      <node ref="R58" pin="1"/>
+    </net>
+    <net code="194" name="Net-(R57-Pad1)">
+      <node ref="U16" pin="1"/>
+      <node ref="R57" pin="1"/>
+    </net>
+    <net code="195" name="Net-(R62-Pad2)">
+      <node ref="R63" pin="1"/>
+      <node ref="R62" pin="2"/>
+      <node ref="U17" pin="3"/>
+    </net>
+    <net code="196" name="Net-(Q30-Pad1)">
+      <node ref="Q31" pin="3"/>
+      <node ref="Q30" pin="1"/>
+      <node ref="R64" pin="2"/>
+    </net>
+    <net code="197" name="Net-(Q31-Pad2)">
+      <node ref="R62" pin="1"/>
+      <node ref="Q31" pin="2"/>
+    </net>
+    <net code="198" name="Net-(R61-Pad1)">
+      <node ref="R61" pin="1"/>
+      <node ref="U17" pin="1"/>
+    </net>
+    <net code="199" name="Net-(R66-Pad2)">
+      <node ref="U18" pin="3"/>
+      <node ref="R67" pin="1"/>
+      <node ref="R66" pin="2"/>
+    </net>
+    <net code="200" name="Net-(Q32-Pad1)">
+      <node ref="Q33" pin="3"/>
+      <node ref="R68" pin="2"/>
+      <node ref="Q32" pin="1"/>
+    </net>
+    <net code="201" name="Net-(Q33-Pad2)">
+      <node ref="Q33" pin="2"/>
+      <node ref="R66" pin="1"/>
+    </net>
+    <net code="202" name="Net-(R65-Pad1)">
+      <node ref="U18" pin="1"/>
+      <node ref="R65" pin="1"/>
+    </net>
+    <net code="203" name="Net-(R70-Pad2)">
+      <node ref="U19" pin="3"/>
+      <node ref="R71" pin="1"/>
+      <node ref="R70" pin="2"/>
+    </net>
+    <net code="204" name="Net-(Q34-Pad1)">
+      <node ref="R72" pin="2"/>
+      <node ref="Q35" pin="3"/>
+      <node ref="Q34" pin="1"/>
+    </net>
+    <net code="205" name="Net-(Q35-Pad2)">
+      <node ref="Q35" pin="2"/>
+      <node ref="R70" pin="1"/>
+    </net>
+    <net code="206" name="Net-(R69-Pad1)">
+      <node ref="U19" pin="1"/>
+      <node ref="R69" pin="1"/>
+    </net>
+    <net code="207" name="Net-(Q36-Pad1)">
+      <node ref="U20" pin="3"/>
+      <node ref="Q36" pin="1"/>
+      <node ref="R75" pin="2"/>
+      <node ref="R76" pin="2"/>
+    </net>
+    <net code="208" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1"/>
+      <node ref="R74" pin="2"/>
+    </net>
+    <net code="209" name="Net-(R73-Pad1)">
+      <node ref="R73" pin="1"/>
+      <node ref="U20" pin="1"/>
+    </net>
+    <net code="210" name="Net-(Q37-Pad1)">
+      <node ref="U21" pin="3"/>
+      <node ref="R80" pin="2"/>
+      <node ref="R79" pin="2"/>
+      <node ref="Q37" pin="1"/>
+    </net>
+    <net code="211" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1"/>
+      <node ref="R78" pin="2"/>
+    </net>
+    <net code="212" name="Net-(R77-Pad1)">
+      <node ref="R77" pin="1"/>
+      <node ref="U21" pin="1"/>
+    </net>
+    <net code="213" name="Net-(Q38-Pad1)">
+      <node ref="U22" pin="3"/>
+      <node ref="R84" pin="2"/>
+      <node ref="R83" pin="2"/>
+      <node ref="Q38" pin="1"/>
+    </net>
+    <net code="214" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1"/>
+      <node ref="R82" pin="2"/>
+    </net>
+    <net code="215" name="Net-(R81-Pad1)">
+      <node ref="U22" pin="1"/>
+      <node ref="R81" pin="1"/>
+    </net>
+    <net code="216" name="Net-(Q39-Pad1)">
+      <node ref="R88" pin="2"/>
+      <node ref="U23" pin="3"/>
+      <node ref="R87" pin="2"/>
+      <node ref="Q39" pin="1"/>
+    </net>
+    <net code="217" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1"/>
+      <node ref="R86" pin="2"/>
+    </net>
+    <net code="218" name="Net-(R85-Pad1)">
+      <node ref="R85" pin="1"/>
+      <node ref="U23" pin="1"/>
+    </net>
+    <net code="219" name="Net-(Q40-Pad1)">
+      <node ref="U24" pin="3"/>
+      <node ref="R92" pin="2"/>
+      <node ref="R91" pin="2"/>
+      <node ref="Q40" pin="1"/>
+    </net>
+    <net code="220" name="Net-(D6-Pad1)">
+      <node ref="R90" pin="2"/>
+      <node ref="D6" pin="1"/>
+    </net>
+    <net code="221" name="Net-(R89-Pad1)">
+      <node ref="R89" pin="1"/>
+      <node ref="U24" pin="1"/>
+    </net>
+    <net code="222" name="Net-(Q41-Pad1)">
+      <node ref="Q41" pin="1"/>
+      <node ref="R95" pin="2"/>
+      <node ref="R96" pin="2"/>
+      <node ref="U25" pin="3"/>
+    </net>
+    <net code="223" name="Net-(D7-Pad1)">
+      <node ref="R94" pin="2"/>
+      <node ref="D7" pin="1"/>
+    </net>
+    <net code="224" name="Net-(R93-Pad1)">
+      <node ref="U25" pin="1"/>
+      <node ref="R93" pin="1"/>
+    </net>
+    <net code="225" name="Net-(Q42-Pad1)">
+      <node ref="U26" pin="3"/>
+      <node ref="Q42" pin="1"/>
+      <node ref="R99" pin="2"/>
+      <node ref="R100" pin="2"/>
+    </net>
+    <net code="226" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1"/>
+      <node ref="R98" pin="2"/>
+    </net>
+    <net code="227" name="Net-(R97-Pad1)">
+      <node ref="R97" pin="1"/>
+      <node ref="U26" pin="1"/>
+    </net>
+    <net code="228" name="Net-(Q43-Pad1)">
+      <node ref="U27" pin="3"/>
+      <node ref="R104" pin="2"/>
+      <node ref="R103" pin="2"/>
+      <node ref="Q43" pin="1"/>
+    </net>
+    <net code="229" name="Net-(D9-Pad1)">
+      <node ref="D9" pin="1"/>
+      <node ref="R102" pin="2"/>
+    </net>
+    <net code="230" name="Net-(R101-Pad1)">
+      <node ref="R101" pin="1"/>
+      <node ref="U27" pin="1"/>
+    </net>
+    <net code="231" name="Net-(Q44-Pad1)">
+      <node ref="Q44" pin="1"/>
+      <node ref="R107" pin="2"/>
+      <node ref="R108" pin="2"/>
+      <node ref="U28" pin="3"/>
+    </net>
+    <net code="232" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1"/>
+      <node ref="R106" pin="2"/>
+    </net>
+    <net code="233" name="Net-(R105-Pad1)">
+      <node ref="R105" pin="1"/>
+      <node ref="U28" pin="1"/>
+    </net>
+    <net code="234" name="Net-(Q45-Pad1)">
+      <node ref="U29" pin="3"/>
+      <node ref="R112" pin="2"/>
+      <node ref="R111" pin="2"/>
+      <node ref="Q45" pin="1"/>
+    </net>
+    <net code="235" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1"/>
+      <node ref="R110" pin="2"/>
+    </net>
+    <net code="236" name="Net-(R109-Pad1)">
+      <node ref="R109" pin="1"/>
+      <node ref="U29" pin="1"/>
+    </net>
+    <net code="237" name="Net-(Q46-Pad1)">
+      <node ref="U30" pin="3"/>
+      <node ref="R116" pin="2"/>
+      <node ref="Q46" pin="1"/>
+      <node ref="R115" pin="2"/>
+    </net>
+    <net code="238" name="Net-(D12-Pad1)">
+      <node ref="R114" pin="2"/>
+      <node ref="D12" pin="1"/>
+    </net>
+    <net code="239" name="Net-(R113-Pad1)">
+      <node ref="R113" pin="1"/>
+      <node ref="U30" pin="1"/>
+    </net>
+    <net code="240" name="Net-(Q47-Pad1)">
+      <node ref="Q47" pin="1"/>
+      <node ref="R120" pin="2"/>
+      <node ref="U31" pin="3"/>
+      <node ref="R119" pin="2"/>
+    </net>
+    <net code="241" name="Net-(D13-Pad1)">
+      <node ref="R118" pin="2"/>
+      <node ref="D13" pin="1"/>
+    </net>
+    <net code="242" name="Net-(R117-Pad1)">
+      <node ref="U31" pin="1"/>
+      <node ref="R117" pin="1"/>
+    </net>
+    <net code="243" name="Net-(Q48-Pad1)">
+      <node ref="Q48" pin="1"/>
+      <node ref="U32" pin="3"/>
+      <node ref="R123" pin="2"/>
+      <node ref="R124" pin="2"/>
+    </net>
+    <net code="244" name="Net-(D14-Pad1)">
+      <node ref="R122" pin="2"/>
+      <node ref="D14" pin="1"/>
+    </net>
+    <net code="245" name="Net-(R121-Pad1)">
+      <node ref="U32" pin="1"/>
+      <node ref="R121" pin="1"/>
+    </net>
+    <net code="246" name="Net-(Q49-Pad1)">
+      <node ref="U33" pin="3"/>
+      <node ref="Q49" pin="1"/>
+      <node ref="R128" pin="2"/>
+      <node ref="R127" pin="2"/>
+    </net>
+    <net code="247" name="Net-(D15-Pad1)">
+      <node ref="D15" pin="1"/>
+      <node ref="R126" pin="2"/>
+    </net>
+    <net code="248" name="Net-(R125-Pad1)">
+      <node ref="U33" pin="1"/>
+      <node ref="R125" pin="1"/>
+    </net>
+    <net code="249" name="Net-(Q50-Pad1)">
+      <node ref="Q50" pin="1"/>
+      <node ref="R131" pin="2"/>
+      <node ref="U34" pin="3"/>
+      <node ref="R132" pin="2"/>
+    </net>
+    <net code="250" name="Net-(D16-Pad1)">
+      <node ref="R130" pin="2"/>
+      <node ref="D16" pin="1"/>
+    </net>
+    <net code="251" name="Net-(R129-Pad1)">
+      <node ref="U34" pin="1"/>
+      <node ref="R129" pin="1"/>
+    </net>
+    <net code="252" name="Net-(Q51-Pad1)">
+      <node ref="R136" pin="2"/>
+      <node ref="U35" pin="3"/>
+      <node ref="R135" pin="2"/>
+      <node ref="Q51" pin="1"/>
+    </net>
+    <net code="253" name="Net-(D17-Pad1)">
+      <node ref="R134" pin="2"/>
+      <node ref="D17" pin="1"/>
+    </net>
+    <net code="254" name="Net-(R133-Pad1)">
+      <node ref="U35" pin="1"/>
+      <node ref="R133" pin="1"/>
+    </net>
+  </nets>
+</export>

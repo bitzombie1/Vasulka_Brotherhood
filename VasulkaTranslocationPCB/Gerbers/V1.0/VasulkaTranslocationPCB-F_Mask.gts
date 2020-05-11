@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5-0-10_14)*
-G04 #@! TF.CreationDate,2020-02-22T16:18:41-07:00*
+G04 #@! TF.CreationDate,2020-03-06T09:21:34-07:00*
 G04 #@! TF.ProjectId,VasulkaTranslocationPCB,56617375-6c6b-4615-9472-616e736c6f63,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.5-0-10_14)) date 2020-02-22 16:18:41*
+G04 Created by KiCad (PCBNEW (5.1.5-0-10_14)) date 2020-03-06 09:21:34*
 %MOMM*%
 %LPD*%
 G04 APERTURE LIST*

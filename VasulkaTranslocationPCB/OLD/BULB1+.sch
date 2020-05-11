@@ -1,0 +1,298 @@
+EESchema Schematic File Version 4
+LIBS:VasulkaTranslocationPCB-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 35
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Isolator:VO615A-4 U?
+U 1 1 5C8F2357
+P 2250 2900
+AR Path="/5C8F2357" Ref="U?"  Part="1" 
+AR Path="/5C8F1E12/5C8F2357" Ref="U2"  Part="1" 
+AR Path="/5C8F3A72/5C8F2357" Ref="U?"  Part="1" 
+F 0 "U2" H 2250 3225 50  0000 C CNN
+F 1 "VO618A-4" H 2250 3134 50  0000 C CNN
+F 2 "Housings_DIP:DIP-4_W7.62mm_LongPads" H 2250 2900 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/81753/vo615a.pdf" H 2250 2900 50  0001 C CNN
+	1    2250 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5C8F2365
+P 2600 3300
+AR Path="/5C8F2365" Ref="R?"  Part="1" 
+AR Path="/5C8F1E12/5C8F2365" Ref="R3"  Part="1" 
+AR Path="/5C8F3A72/5C8F2365" Ref="R?"  Part="1" 
+F 0 "R3" H 2670 3346 50  0000 L CNN
+F 1 "10K" H 2670 3255 50  0000 L CNN
+F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2530 3300 50  0001 C CNN
+F 3 "~" H 2600 3300 50  0001 C CNN
+	1    2600 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5C8F236C
+P 2850 3050
+AR Path="/5C8F236C" Ref="R?"  Part="1" 
+AR Path="/5C8F1E12/5C8F236C" Ref="R2"  Part="1" 
+AR Path="/5C8F3A72/5C8F236C" Ref="R?"  Part="1" 
+F 0 "R2" V 2643 3050 50  0000 C CNN
+F 1 "10K" V 2734 3050 50  0000 C CNN
+F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2780 3050 50  0001 C CNN
+F 3 "~" H 2850 3050 50  0001 C CNN
+	1    2850 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5C8F2373
+P 2600 3550
+AR Path="/5C8F2373" Ref="#PWR?"  Part="1" 
+AR Path="/5C8F1E12/5C8F2373" Ref="#PWR0101"  Part="1" 
+AR Path="/5C8F3A72/5C8F2373" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0101" H 2600 3300 50  0001 C CNN
+F 1 "GND" H 2605 3377 50  0000 C CNN
+F 2 "" H 2600 3550 50  0001 C CNN
+F 3 "" H 2600 3550 50  0001 C CNN
+	1    2600 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5C8F2379
+P 3450 3350
+AR Path="/5C8F2379" Ref="#PWR?"  Part="1" 
+AR Path="/5C8F1E12/5C8F2379" Ref="#PWR0102"  Part="1" 
+AR Path="/5C8F3A72/5C8F2379" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0102" H 3450 3100 50  0001 C CNN
+F 1 "GND" H 3455 3177 50  0000 C CNN
+F 2 "" H 3450 3350 50  0001 C CNN
+F 3 "" H 3450 3350 50  0001 C CNN
+	1    3450 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Q_PMOS_GSD Q?
+U 1 1 5C8F237F
+P 4050 2750
+AR Path="/5C8F237F" Ref="Q?"  Part="1" 
+AR Path="/5C8F1E12/5C8F237F" Ref="Q1"  Part="1" 
+AR Path="/5C8F3A72/5C8F237F" Ref="Q?"  Part="1" 
+F 0 "Q1" H 4256 2796 50  0000 L CNN
+F 1 "IRF9520" H 4256 2705 50  0000 L CNN
+F 2 "TO_SOT_Packages_THT:TO-220-3_Vertical" H 4250 2850 50  0001 C CNN
+F 3 "~" H 4050 2750 50  0001 C CNN
+	1    4050 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5C8F2386
+P 3700 3350
+AR Path="/5C8F2386" Ref="R?"  Part="1" 
+AR Path="/5C8F1E12/5C8F2386" Ref="R4"  Part="1" 
+AR Path="/5C8F3A72/5C8F2386" Ref="R?"  Part="1" 
+F 0 "R4" H 3630 3304 50  0000 R CNN
+F 1 "10K" H 3630 3395 50  0000 R CNN
+F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3630 3350 50  0001 C CNN
+F 3 "~" H 3700 3350 50  0001 C CNN
+	1    3700 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+12V #PWR?
+U 1 1 5C8F238D
+P 4400 3500
+AR Path="/5C8F238D" Ref="#PWR?"  Part="1" 
+AR Path="/5C8F1E12/5C8F238D" Ref="#PWR0103"  Part="1" 
+AR Path="/5C8F3A72/5C8F238D" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0103" H 4400 3350 50  0001 C CNN
+F 1 "+12V" H 4415 3673 50  0000 C CNN
+F 2 "" H 4400 3500 50  0001 C CNN
+F 3 "" H 4400 3500 50  0001 C CNN
+	1    4400 3500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5C8F2393
+P 1850 3200
+AR Path="/5C8F2393" Ref="R?"  Part="1" 
+AR Path="/5C8F1E12/5C8F2393" Ref="R1"  Part="1" 
+AR Path="/5C8F3A72/5C8F2393" Ref="R?"  Part="1" 
+F 0 "R1" H 1780 3154 50  0000 R CNN
+F 1 "430" H 1780 3245 50  0000 R CNN
+F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 1780 3200 50  0001 C CNN
+F 3 "~" H 1850 3200 50  0001 C CNN
+	1    1850 3200
+	-1   0    0    1   
+$EndComp
+Text HLabel 4550 2500 2    50   Input ~ 0
+BULB1+
+$Comp
+L power:+12V #PWR?
+U 1 1 5C8F2C5C
+P 2550 2450
+AR Path="/5C8F2C5C" Ref="#PWR?"  Part="1" 
+AR Path="/5C8F1E12/5C8F2C5C" Ref="#PWR0105"  Part="1" 
+AR Path="/5C8F3A72/5C8F2C5C" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0105" H 2550 2300 50  0001 C CNN
+F 1 "+12V" H 2565 2623 50  0000 C CNN
+F 2 "" H 2550 2450 50  0001 C CNN
+F 3 "" H 2550 2450 50  0001 C CNN
+	1    2550 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2550 2800 2550 2450
+Wire Wire Line
+	2550 3000 2600 3000
+Wire Wire Line
+	2600 3000 2600 3050
+Wire Wire Line
+	2600 3050 2700 3050
+Connection ~ 2600 3050
+Wire Wire Line
+	2600 3050 2600 3150
+Wire Wire Line
+	3000 3050 3150 3050
+Wire Wire Line
+	2600 3550 2600 3450
+Wire Wire Line
+	3450 3250 3450 3350
+Wire Wire Line
+	3450 2850 3450 2750
+Wire Wire Line
+	3450 2750 3700 2750
+Wire Wire Line
+	3700 3200 3700 2750
+Connection ~ 3700 2750
+Wire Wire Line
+	3700 2750 3850 2750
+Wire Wire Line
+	3700 3500 4150 3500
+Wire Wire Line
+	4150 2950 4150 3500
+Connection ~ 4150 3500
+Wire Wire Line
+	4150 3500 4400 3500
+Wire Wire Line
+	4150 2550 4150 2500
+Wire Wire Line
+	4150 2500 4550 2500
+Text HLabel 1650 2800 0    50   Input ~ 0
++1
+$Comp
+L Transistor_BJT:2N3904 Q2
+U 1 1 5CE7CBFF
+P 3350 3050
+F 0 "Q2" H 3541 3096 50  0000 L CNN
+F 1 "2N3904" H 3541 3005 50  0000 L CNN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 3550 2975 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 3350 3050 50  0001 L CNN
+	1    3350 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:IRF9540N Q52
+U 1 1 5D722D63
+P 3800 2250
+F 0 "Q52" H 4005 2296 50  0000 L CNN
+F 1 "IRF9540N" H 4005 2205 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 4000 2175 50  0001 L CIN
+F 3 "http://www.irf.com/product-info/datasheets/data/irf9540n.pdf" H 3800 2250 50  0001 L CNN
+	1    3800 2250
+	1    0    0    -1  
+$EndComp
+Text Notes 3250 2000 0    50   ~ 0
+Change q1 to p channel irf9540n
+$Comp
+L power:GND #PWR?
+U 1 1 5D723194
+P 1850 3400
+AR Path="/5D723194" Ref="#PWR?"  Part="1" 
+AR Path="/5C8F1E12/5D723194" Ref="#PWR?"  Part="1" 
+AR Path="/5C8F3A72/5D723194" Ref="#PWR?"  Part="1" 
+F 0 "#PWR?" H 1850 3150 50  0001 C CNN
+F 1 "GND" H 1855 3227 50  0000 C CNN
+F 2 "" H 1850 3400 50  0001 C CNN
+F 3 "" H 1850 3400 50  0001 C CNN
+	1    1850 3400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1850 3400 1850 3350
+Wire Wire Line
+	1850 3050 1850 3000
+Wire Wire Line
+	1850 3000 1950 3000
+Wire Wire Line
+	1950 2800 1800 2800
+Text Notes 1050 2500 0    50   ~ 0
+switched pin 1 and 2. teensy out to 1 and gnd to 2
+$Comp
+L Device:LED D?
+U 1 1 5D723797
+P 2000 2100
+F 0 "D?" H 1992 1845 50  0000 C CNN
+F 1 "LED" H 1992 1936 50  0000 C CNN
+F 2 "" H 2000 2100 50  0001 C CNN
+F 3 "~" H 2000 2100 50  0001 C CNN
+	1    2000 2100
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5D723832
+P 2200 2150
+AR Path="/5D723832" Ref="#PWR?"  Part="1" 
+AR Path="/5C8F1E12/5D723832" Ref="#PWR?"  Part="1" 
+AR Path="/5C8F3A72/5D723832" Ref="#PWR?"  Part="1" 
+F 0 "#PWR?" H 2200 1900 50  0001 C CNN
+F 1 "GND" H 2205 1977 50  0000 C CNN
+F 2 "" H 2200 2150 50  0001 C CNN
+F 3 "" H 2200 2150 50  0001 C CNN
+	1    2200 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D723876
+P 1800 2650
+AR Path="/5D723876" Ref="R?"  Part="1" 
+AR Path="/5C8F1E12/5D723876" Ref="R?"  Part="1" 
+AR Path="/5C8F3A72/5D723876" Ref="R?"  Part="1" 
+F 0 "R?" H 1730 2604 50  0000 R CNN
+F 1 "1.8k" H 1730 2695 50  0000 R CNN
+F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 1730 2650 50  0001 C CNN
+F 3 "~" H 1800 2650 50  0001 C CNN
+	1    1800 2650
+	-1   0    0    1   
+$EndComp
+Connection ~ 1800 2800
+Wire Wire Line
+	1800 2800 1650 2800
+Wire Wire Line
+	1800 2500 1800 2100
+Wire Wire Line
+	1800 2100 1850 2100
+Wire Wire Line
+	2150 2100 2200 2100
+Wire Wire Line
+	2200 2100 2200 2150
+Text Notes 1500 1750 0    50   ~ 0
+add led with 1.8k resistor
+$EndSCHEMATC
